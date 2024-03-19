@@ -1,5 +1,3 @@
-some
-these
 -
 ;
 :
@@ -39,7 +37,6 @@ allvarlig
 an
 and
 andel
-#anders_tegnell
 andra
 andras
 ang
@@ -138,8 +135,6 @@ can
 cirka
 could
 courier
-#covid
-#covid-19
 d
 dag
 dagar
@@ -236,7 +231,6 @@ enligt
 ens
 er
 era
-#erik
 ert
 et
 etc
@@ -262,7 +256,6 @@ fanns
 fast
 feb
 fel
-#felicia
 fem
 femte
 femtio
@@ -370,6 +363,7 @@ går
 gått
 gälla
 gällande
+gällde
 gäller
 gällt
 gärna
@@ -396,7 +390,6 @@ he
 hej
 hel
 hela
-#helena
 heller
 hellre
 helst
@@ -522,7 +515,6 @@ januari
 januari-mars
 japp
 jasså
-#jenesuispasunvirus
 jo
 johansson
 ju
@@ -543,7 +535,6 @@ kallat
 kallats
 kan
 kanske
-#karin
 kl
 kl.
 klar
@@ -665,7 +656,6 @@ mm
 more
 mot
 motsvarande
-#mrna
 my
 mycket
 må
@@ -697,18 +687,15 @@ news
 news:
 ngn
 ni
-#nilsson
 nio
 nionde
 nittio
 nittionde
 nitton
 nittonde
-#nivette
 no
 nog
 noll
-#nordlund
 not
 nov
 november
@@ -775,6 +762,7 @@ ovan
 owns
 par
 pblmd
+pdf
 per
 pers
 person
@@ -833,8 +821,6 @@ samt
 samtidigt
 samtidigt_som
 samtliga
-#samuel
-#sara
 satt
 se
 sedan
@@ -904,6 +890,7 @@ snart
 so
 soc
 som
+some
 som_sagt
 speciellt
 st
@@ -981,6 +968,7 @@ than
 that
 the
 there
+these
 they
 this
 those
@@ -1078,9 +1066,6 @@ utav
 ute
 utifrån
 va
-#vaccin
-#vaccination
-#vaccinera
 vad
 vadå
 valt
@@ -1165,6 +1150,8 @@ världen
 värre
 x
 years
+yes
+Yes
 you
 your
 ytterligare
