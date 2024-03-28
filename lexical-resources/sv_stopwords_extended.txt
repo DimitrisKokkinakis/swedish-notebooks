@@ -1,34 +1,3 @@
-vaccin
-vaccination
-vaccine
-vaccinen
-vacciner
-vaccinera
-vaccinerad
-vaccinerade
-vaccinerar
-vaccinerat
-vaccinerats
-vaccines
-vaccinet
-vaccinets
-virus
-viruset
--
-;
-:
-?
-/
-.
-"
-[
-]
-{
-}
-*
-\
-&
-%
 a
 about
 above
@@ -70,6 +39,7 @@ amount
 an
 and
 andel
+#anders_tegnell
 andra
 andras
 ang
@@ -105,6 +75,7 @@ as
 at
 athrts
 att
+Att
 aug
 av
 avser
@@ -200,6 +171,8 @@ con
 could
 couldnt
 courier
+#covid
+#covid-19
 cry
 d
 dag
@@ -211,6 +184,7 @@ dags
 datum
 dawod
 de
+De
 dec
 del
 delar
@@ -219,6 +193,7 @@ delen
 dels
 dem
 den
+Den
 deng
 denna
 deras
@@ -229,10 +204,12 @@ dessutom
 dessvärre
 desto
 det
+Det
 detail
 detsamma
 detsamma"
 detta
+Detta
 det_vill_säga
 did
 dig
@@ -257,6 +234,7 @@ drar
 drog
 drygt
 du
+Du
 due
 during
 dvs
@@ -264,6 +242,7 @@ dvs
 d_v_s
 dygn
 då
+Då
 där
 därav
 därefter
@@ -272,6 +251,8 @@ därför
 däribland
 därifrån
 därmed
+dö
+dör
 e
 each
 edit
@@ -299,6 +280,7 @@ emellanåt
 emot
 empty
 en
+En
 ena
 enbart
 enda
@@ -312,6 +294,7 @@ enough
 ens
 er
 era
+#erik
 ert
 et
 etc
@@ -344,6 +327,7 @@ fanns
 fast
 feb
 fel
+#felicia
 fem
 femte
 femtio
@@ -415,6 +399,7 @@ följa
 följande
 följd
 för
+För
 förbjuder
 före
 förlåt
@@ -488,6 +473,7 @@ handlar
 handlat
 hans
 har
+Har
 has
 hasnt
 have
@@ -495,6 +481,7 @@ he
 hej
 hel
 hela
+#helena
 heller
 hellre
 helst
@@ -540,6 +527,7 @@ hundratals
 hundred
 hunnit
 hur
+Hur
 huruvida
 huvud
 håll
@@ -563,6 +551,7 @@ hörde
 hört
 i
 <i>
+I
 iaf
 iallafall
 i_alla_fall
@@ -632,12 +621,15 @@ itse"
 i_år
 i_övrigt
 ja
+Ja
 jag
+Jag
 jan
 januari
 januari-mars
 japp
 jasså
+#jenesuispasunvirus
 jo
 johansson
 ju
@@ -657,7 +649,9 @@ kallas
 kallat
 kallats
 kan
+Kan
 kanske
+#karin
 keep
 kl
 kl.
@@ -727,6 +721,7 @@ långt_ifrån
 låt
 låta
 lägga
+lägre
 länder
 länge
 längre
@@ -744,6 +739,7 @@ m
 made
 maj
 man
+Man
 many
 mao
 mar
@@ -766,6 +762,7 @@ med_hänvisning_till
 med_tanke_på
 mellan
 men
+Men
 menar
 mer
 mera
@@ -796,6 +793,7 @@ mostly
 mot
 motsvarande
 move
+#mrna
 much
 must
 my
@@ -827,6 +825,7 @@ nedersta
 nedre
 neither
 nej
+Nej
 ner
 new
 never
@@ -836,6 +835,7 @@ news:
 next
 ngn
 ni
+#nilsson
 nine
 nio
 nionde
@@ -843,6 +843,7 @@ nittio
 nittionde
 nitton
 nittonde
+#nivette
 no
 nobody
 nog
@@ -850,6 +851,7 @@ noll
 none
 noone
 nor
+#nordlund
 not
 nothing
 nov
@@ -858,6 +860,7 @@ november
 nowhere
 nr
 nu
+Nu
 nuläge
 nuläget
 nummer
@@ -892,6 +895,7 @@ nödvändigtvis
 o
 oavsett
 och
+Och
 också
 of
 off
@@ -905,6 +909,7 @@ oktober
 olika
 olikt
 om
+Om
 omfattande
 omkring
 on
@@ -997,6 +1002,8 @@ samt
 samtidigt
 samtidigt_som
 samtliga
+#samuel
+#sara
 satt
 se
 sedan
@@ -1113,6 +1120,7 @@ svåra
 svårt
 system
 så
+Så
 så_att
 sådan
 sådana
@@ -1269,6 +1277,7 @@ tydligen
 typ
 tyvärr
 tänka
+tänker
 <u>
 umeå
 un
@@ -1298,6 +1307,7 @@ ute
 utifrån
 va
 vad
+Vad
 vadå
 valt
 vanlig
@@ -1311,6 +1321,7 @@ varandra
 varav
 vare
 varför
+Varför
 varifrån
 varit
 varje
@@ -1360,6 +1371,7 @@ whom
 whose
 why
 vi
+Vi
 via
 victor
 vid
@@ -1377,6 +1389,8 @@ vilket
 vill
 will
 ville
+virus
+viruset
 vis
 visa
 visade
@@ -1437,6 +1451,7 @@ ytterligare
 än_så_länge
 äntligen
 är
+Är
 äta
 även
 även_om
@@ -1452,3 +1467,18 @@ ytterligare
 övrig
 övriga
 övrigt
+vaccin
+vaccination
+vaccine
+vaccinen
+vacciner
+vaccinera
+vaccinerad
+vaccinerade
+vaccinerar
+vaccinerat
+vaccinerats
+vaccinering
+vaccines
+vaccinet
+vaccinets
