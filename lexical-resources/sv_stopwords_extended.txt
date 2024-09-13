@@ -209,6 +209,7 @@ detta
 Detta
 det_vill_säga
 did
+didn't
 dig
 din
 dina
@@ -602,6 +603,7 @@ i_princip
 is
 i_samband_med
 i_slutet_av
+isn't
 i_stället
 istället
 i_stället_för
@@ -1412,6 +1414,7 @@ yes
 Yes
 yet
 you
+you 
 your
 yours
 yourself
