@@ -119,8 +119,10 @@ beyond
 bild
 bill
 bl.a
+bl_._a_.
 bl_a
 bla
+Bl_._a_.
 bland
 bland_andra
 bland_annan
@@ -178,6 +180,7 @@ dagarna
 dagen
 dagens
 dags
+das
 datum
 dawod
 de
@@ -604,6 +607,7 @@ is
 i_samband_med
 i_slutet_av
 isn't
+ist
 i_stället
 istället
 i_stället_för
@@ -1160,8 +1164,10 @@ ter
 .t.ex
 t.ex
 t.ex.
+t_._ex_.
 t_ex
 tex
+T_._ex_.
 than
 that
 the
@@ -1414,7 +1420,6 @@ yes
 Yes
 yet
 you
-you 
 your
 yours
 yourself
