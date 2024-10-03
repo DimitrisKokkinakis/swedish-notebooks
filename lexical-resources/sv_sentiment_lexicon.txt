@@ -1,28 +1,28 @@
 absurd,pos,2,0.25
 acceptera,pos,2,0.25
-adekvat,pos,2,0.75
+adekvat,very-pos,2,0.75
 affärsmässig,pos,2,0.25
 aga,neg,-2,0.5
 aggravera,neg,-2,0.5
 aggressiv,neg,-2,0.5
 agreabel,pos,2,0.5
 aidssjuk,neg,-2,1.0
-akta,pos,2,0.75
+akta,very-pos,2,0.75
 akterlig,pos,2,0.25
-aktningsvärd,pos,2,0.75
+aktningsvärd,very-pos,2,0.75
 akutopererad,neg,2,1.0
 algebraisk,pos,2,0.25
 allegorisk,pos,2,0.25
-allena_saliggörande,pos,2,0.75
-allgod,pos,2,0.75
+allena saliggörande,very-pos,2,0.75
+allgod,very-pos,2,0.75
 allmännyttig,pos,2,0.25
 allmän,pos,2,0.25
 allvarligen,neg,-2,0.5
-allvarlig,neg,-2,0.75
+allvarlig,very-neg,-2,0.75
 allvarsam,neg,-2,0.5
 allvarstyngd,neg,-2,0.5
 allvis,pos,2,0.25
-anakreontisk,pos,2,0.75
+anakreontisk,very-pos,2,0.75
 anakronistisk,neg,-2,0.25
 angenäm,pos,2,1.0
 anklaga,neg,-2,0.5
@@ -37,12 +37,12 @@ anstå,pos,2,0.5
 ansvarsfull,pos,2,0.25
 antiseptisk,neg,-2,0.25
 använda,pos,2,0.25
-användarvänlig,pos,2,0.75
+användarvänlig,very-pos,2,0.75
 apa,neg,-2,1.0
 applådera,pos,2,0.25
 arbetsduglig,pos,2,0.5
 arbetsskygg,neg,-2,0.25
-arg,neg,-2,0.75
+arg,very-neg,-2,0.75
 argsint,neg,-2,0.5
 arm,neg,-2,0.25
 artrik,pos,2,0.25
@@ -62,7 +62,7 @@ avskärma,pos,2,0.25
 avtvå,pos,2,0.5
 bagatellisera,pos,2,0.25
 bakteriedödande,pos,2,0.5
-bakteriesmittad,neg,-2,0.75
+bakteriesmittad,very-neg,-2,0.75
 ball,pos,2,0.5
 banbrytande,pos,2,0.25
 bankrutt,neg,-2,0.25
@@ -71,17 +71,17 @@ bebodd,pos,2,0.25
 bedrövad,neg,-2,1.0
 bedröva,neg,-2,1.0
 bedrövlig,neg,-2,0.5
-begråta,neg,-2,0.75
+begråta,very-neg,-2,0.75
 begränsad,neg,-2,0.25
 behagfull,pos,2,0.5
-behaglig,pos,2,0.75
-behandla,pos,2,0.75
-behandlingsbar,pos,2,0.75
-behjärtansvärd,pos,2,0.75
-beivra,neg,-2,0.75
-bejubla,pos,2,0.75
+behaglig,very-pos,2,0.75
+behandla,very-pos,2,0.75
+behandlingsbar,very-pos,2,0.75
+behjärtansvärd,very-pos,2,0.75
+beivra,very-neg,-2,0.75
+bejubla,very-pos,2,0.75
 beklaga,neg,-2,0.25
-beklagansvärd,pos,2,0.75
+beklagansvärd,very-pos,2,0.75
 beklämd,neg,-2,1.0
 beklämmande,neg,-2,0.5
 bekräfta,pos,2,0.25
@@ -89,70 +89,70 @@ bekröna,pos,2,0.5
 bekväm,pos,2,1.0
 bekymmerslös,pos,2,0.25
 bekymra,neg,-2,0.25
-bele,pos,2,0.75
-belåten,pos,2,0.75
+bele,very-pos,2,0.75
+belåten,very-pos,2,0.75
 bemannad,pos,2,0.25
 bemöta,pos,2,0.25
-be_om_förlåtelse,pos,2,0.5
+be om förlåtelse,pos,2,0.5
 bepryda,pos,2,0.5
 beprövad,pos,2,0.25
 bereda,pos,2,0.25
 beryktad,neg,-2,0.25
-beräknande,pos,2,0.75
+beräknande,very-pos,2,0.75
 berömma,pos,2,1.0
 besanna,pos,2,0.5
 besegra,pos,2,0.5
 beskedlig,pos,2,0.5
-besluta_sig,pos,2,0.25
-besmitta,neg,-2,0.75
+besluta sig,pos,2,0.25
+besmitta,very-neg,-2,0.75
 bestialisk,neg,-2,0.25
-bestraffa,neg,-2,0.75
+bestraffa,very-neg,-2,0.75
 bestycka,pos,2,0.25
 beständig,pos,2,0.25
-besviken,neg,-2,0.75
+besviken,very-neg,-2,0.75
 besvärlig,neg,-2,0.5
 besätta,pos,2,0.5
-betala_sig,pos,2,0.25
-betrycka,neg,-2,0.75
+betala sig,pos,2,0.25
+betrycka,very-neg,-2,0.75
 betryckt,neg,-2,1.0
 betydelsefull,pos,2,0.25
 betänklig,neg,-2,1.0
-beundransvärd,pos,2,0.75
-beundra,pos,2,0.75
+beundransvärd,very-pos,2,0.75
+beundra,very-pos,2,0.75
 bevara,pos,2,0.25
-bevänt,pos,2,0.75
+bevänt,very-pos,2,0.75
 bikiniprydd,pos,2,0.5
 bildskön,pos,2,0.5
 billig,pos,2,0.25
 bister,neg,-2,0.5
-bitterligen,neg,-2,0.75
+bitterligen,very-neg,-2,0.75
 bitter,neg,-2,1.0
 bjärt,pos,2,0.5
 blanda,pos,2,0.25
 blid,pos,2,0.5
 blinka,pos,2,0.25
 blixtrande,pos,2,0.25
-bli_över,pos,2,0.25
+bli över,pos,2,0.25
 blåsa,pos,2,0.25
 blöt,neg,-2,0.25
 bombastisk,neg,-2,0.25
 bondsk,neg,-2,0.25
 bota,pos,2,1.0
-botbar,pos,2,0.75
+botbar,very-pos,2,0.75
 botlig,pos,2,0.5
 bottendålig,neg,-3,1.0
 bottenhederlig,pos,2,0.25
-botten,neg,-2,0.75
+botten,very-neg,-2,0.75
 brant,neg,-2,0.25
 bra,pos,2,1.0
-briljant,pos,2,0.75
+briljant,very-pos,2,0.75
 brista,neg,-2,0.5
 bristfällig,neg,-2,1.0
 brunsmutsig,neg,-2,0.5
-brusa_upp,neg,-2,0.5
+brusa upp,neg,-2,0.5
 brutal,pos,2,0.25
 bruten,neg,-2,0.5
-bry_sig,neg,-2,0.25
+bry sig,neg,-2,0.25
 bryta,neg,-2,0.5
 bräcka,neg,-2,0.5
 bubblig,neg,-2,0.25
@@ -162,14 +162,14 @@ busig,pos,2,0.25
 bussig,pos,2,0.25
 butiksdöden,neg,-2,0.5
 bygga,pos,2,0.25
-bära_frukt,pos,2,0.5
-bära_i_gullstol,pos,2,0.5
+bära frukt,pos,2,0.5
+bära i gullstol,pos,2,0.5
 bära,pos,2,0.5
-bära_sig,pos,2,0.25
+bära sig,pos,2,0.25
 bäst,pos,2,1.0
 bättra,pos,2,1.0
-bättra_på,pos,2,0.75
-bättra_sig,pos,2,1.0
+bättra på,very-pos,2,0.75
+bättra sig,pos,2,1.0
 böla,neg,-2,0.5
 börja,pos,2,0.25
 cancersjuk,neg,-2,1.0
@@ -178,11 +178,11 @@ centralstimulerande,pos,2,0.25
 charmant,pos,2,0.5
 charmig,pos,2,0.25
 chic,pos,2,0.5
-comme-il-faut,pos,2,0.75
+comme-il-faut,very-pos,2,0.75
 cool,pos,2,1.0
 covid19bluffen,neg,-2,0.5
 covid-19-katastrofen,neg,-2,0.5
-covid-19-krisen,neg,-2,0.75
+covid-19-krisen,very-neg,-2,0.75
 covid19,neg,-1,0.5
 covid-19,neg,-2,0.5
 covid_19,neg,-2,0.5
@@ -199,17 +199,17 @@ covidförstörda,neg,-2,0.5
 covid-hysterin,neg,-2,0.5
 covidhysterin,neg,-2,0.5
 covidinfektion,neg,-2,0.5
-covid-krisen,neg,-2,0.75
-covidkrisen,neg,-2,0.75
-covid-krisens,neg,-2,0.75
-covidkrisens,neg,-2,0.75
+covid-krisen,very-neg,-2,0.75
+covidkrisen,very-neg,-2,0.75
+covid-krisens,very-neg,-2,0.75
+covidkrisens,very-neg,-2,0.75
 covidkris,neg,-2,0.5
 covid,neg,-2,0.5
 covidsjuka_äldre,neg,-2,0.5
 covid-sjukdomen,neg,-2,0.5
 covid-skiten,neg,-2,0.5
 covidskiten,neg,-2,0.5
-covidskrisen,neg,-2,0.75
+covidskrisen,very-neg,-2,0.75
 covidsnuvan,neg,-2,0.5
 covid-tröttheten,neg,-2,0.5
 covid-trötthet,neg,-2,0.5
@@ -224,108 +224,108 @@ dassig,neg,-2,1.0
 degenerativ,neg,2,0.5
 degenerera,neg,2,1.0
 degenererbar,neg,2,0.5
-dejlig,pos,2,0.75
-deklinera,neg,-2,0.75
+dejlig,very-pos,2,0.75
+deklinera,very-neg,-2,0.75
 deklinerbar,neg,-2,0.5
 dekorativ,pos,2,0.5
 dekorera,pos,2,0.5
-deppad,neg,-2,0.75
+deppad,very-neg,-2,0.75
 deppa,neg,-2,1.0
-deppig,neg,-2,0.75
+deppig,very-neg,-2,0.75
 deprimerad,neg,-2,1.0
-deprimerande,neg,-2,0.75
+deprimerande,very-neg,-2,0.75
 desperat,neg,-2,0.25
 devot,pos,2,0.5
 diamantprydd,pos,2,0.5
 digerdöden,neg,-2,0.5
 direkt,pos,2,0.25
-diska_av,pos,2,0.5
-diska,pos,2,0.75
-dissa,neg,-2,0.75
+diska av,pos,2,0.5
+diska,very-pos,2,0.75
+dissa,very-neg,-2,0.75
 distingerad,pos,2,0.5
 distinkt,pos,2,0.25
 djup,neg,-2,0.25
 docksöt,pos,2,0.5
 dona,pos,2,0.25
-dra_ett_streck,pos,2,0.5
-dra_fram,neg,-2,0.25
+dra ett streck,pos,2,0.5
+dra fram,neg,-2,0.25
 dramatisera,pos,2,0.25
 dramatisk,pos,2,0.25
 dras,pos,2,0.25
-dra_upp,pos,2,0.25
-dra_ut_på_tiden,pos,2,0.25
+dra upp,pos,2,0.25
+dra ut på tiden,pos,2,0.25
 dryg,pos,2,0.25
-dråplig,pos,2,0.75
-dugande,pos,2,0.75
+dråplig,very-pos,2,0.75
+dugande,very-pos,2,0.75
 duga,pos,2,1.0
-duglig,pos,2,0.75
+duglig,very-pos,2,0.75
 duktig,pos,2,0.25
-dum,neg,-2,0.75
+dum,very-neg,-2,0.75
 dynamisk,pos,2,0.25
 dyrbar,pos,2,0.25
 dyrka,pos,2,0.5
 dyster,neg,-2,1.0
-dystra_till,neg,-2,0.75
+dystra till,very-neg,-2,0.75
 dålig,neg,-2,1.0
-däckad,neg,-2,0.75
+däckad,very-neg,-2,0.75
 därmed,pos,2,0.25
-dödade,neg,-2,0.75
-dödades,neg,-2,0.75
-dödad,neg,-2,0.75
-dödads,neg,-2,0.75
+dödade,very-neg,-2,0.75
+dödades,very-neg,-2,0.75
+dödad,very-neg,-2,0.75
+dödads,very-neg,-2,0.75
 dödande,neg,-2,0.5
-dödande,neg,-2,0.75
-dödandes,neg,-2,0.75
-dödandet,neg,-2,0.75
-dödandets,neg,-2,0.75
+dödande,very-neg,-2,0.75
+dödandes,very-neg,-2,0.75
+dödandet,very-neg,-2,0.75
+dödandets,very-neg,-2,0.75
 döda,neg,-2,0.5
-döda,neg,-2,0.75
+döda,very-neg,-2,0.75
 dödare,neg,-2,0.5
 dödares,neg,-2,0.5
 dödarna,neg,-2,0.5
 dödarnas,neg,-2,0.5
 dödar,neg,-2,0.5
-dödar,neg,-2,0.75
+dödar,very-neg,-2,0.75
 dödars,neg,-2,0.5
 dödas,neg,-2,0.5
-dödas,neg,-2,0.75
-dödaste,neg,-3,0.75
-dödastes,neg,-3,0.75
-dödast,neg,-3,0.75
+dödas,very-neg,-2,0.75
+dödaste,very-neg,-3,0.75
+dödastes,very-neg,-3,0.75
+dödast,very-neg,-3,0.75
 dödasts,neg,-2,0.5
-dödat,neg,-2,0.75
-dödats,neg,-2,0.75
+dödat,very-neg,-2,0.75
+dödats,very-neg,-2,0.75
 död-billigt,pos,2,0.5
 döde,neg,-2,0.5
 döden,neg,-2,0.5
 dödens,neg,-2,0.5
 dödes,neg,-2,0.5
-dödgrävare,neg,-2,0.75
-dödgrävaren,neg,-2,0.75
-dödgrävarens,neg,-2,0.75
-dödgrävares,neg,-2,0.75
-dödgrävarna,neg,-2,0.75
-dödgrävarnas,neg,-2,0.75
+dödgrävare,very-neg,-2,0.75
+dödgrävaren,very-neg,-2,0.75
+dödgrävarens,very-neg,-2,0.75
+dödgrävares,very-neg,-2,0.75
+dödgrävarna,very-neg,-2,0.75
+dödgrävarnas,very-neg,-2,0.75
 dödliga_giftet,neg,-2,0.5
 dödliga,neg,-2,0.5
 dödligare,neg,-2,0.5
 dödligares,neg,-2,0.5
 dödligas,neg,-2,0.5
-dödligaste,neg,-3,0.75
-dödligastes,neg,-3,0.75
-dödligast,neg,-3,0.75
+dödligaste,very-neg,-3,0.75
+dödligastes,very-neg,-3,0.75
+dödligast,very-neg,-3,0.75
 dödligasts,neg,-2,0.5
-dödliga_våldet,neg,-2,0.75
+dödliga_våldet,very-neg,-2,0.75
 dödlige,neg,-2,0.5
 dödliges,neg,-2,0.5
-dödligheten,neg,-2,0.75
-dödlighetens,neg,-2,0.75
+dödligheten,very-neg,-2,0.75
+dödlighetens,very-neg,-2,0.75
 dödligheterna,neg,-2,0.5
 dödligheternas,neg,-2,0.5
 dödligheter,neg,-2,0.5
 dödligheters,neg,-2,0.5
-dödlighet,neg,-2,0.75
-dödlighets,neg,-2,0.75
+dödlighet,very-neg,-2,0.75
+dödlighets,very-neg,-2,0.75
 dödlig,neg,-2,0.5
 dödlig,pos,2,0.25
 dödlig_sjukdom,neg,-2,0.5
@@ -387,9 +387,9 @@ dödsmisshandel,neg,-2,0.5
 dödsmisshandeln,neg,-2,0.5
 dödsmisshandelns,neg,-2,0.5
 dödsmisshandels,neg,-2,0.5
-dödsmärkta,neg,-2,0.75
+dödsmärkta,very-neg,-2,0.75
 dödsmärkt,neg,-2,0.5
-dödsmärkt,neg,-2,0.75
+dödsmärkt,very-neg,-2,0.75
 döds,neg,-2,0.5
 dödsoffer,neg,-2,0.5
 dödspandemi,neg,-2,0.5
@@ -404,9 +404,9 @@ dödssjuka,neg,-2,0.5
 dödssjukare,neg,-2,0.5
 dödssjukares,neg,-2,0.5
 dödssjukas,neg,-2,0.5
-dödssjukaste,neg,-3,0.75
-dödssjukastes,neg,-3,0.75
-dödssjukast,neg,-3,0.75
+dödssjukaste,very-neg,-3,0.75
+dödssjukastes,very-neg,-3,0.75
+dödssjukast,very-neg,-3,0.75
 dödssjukasts,neg,-2,0.5
 dödssjuke,neg,-2,0.5
 dödssjukes,neg,-2,0.5
@@ -453,9 +453,9 @@ dödstråkiga,neg,-2,0.5
 dödstråkigare,neg,-2,0.5
 dödstråkigares,neg,-2,0.5
 dödstråkigas,neg,-2,0.5
-dödstråkigaste,neg,-3,0.75
-dödstråkigastes,neg,-3,0.75
-dödstråkigast,neg,-3,0.75
+dödstråkigaste,very-neg,-3,0.75
+dödstråkigastes,very-neg,-3,0.75
+dödstråkigast,very-neg,-3,0.75
 dödstråkigasts,neg,-2,0.5
 dödstråkige,neg,-2,0.5
 dödstråkiges,neg,-2,0.5
@@ -480,83 +480,83 @@ ekfatslagra,pos,2,0.5
 ekonomisk,pos,2,0.25
 elak,neg,-2,1.0
 elda,pos,2,0.25
-elegant,pos,2,0.75
+elegant,very-pos,2,0.75
 elegisk,neg,-2,0.25
 elända,neg,-2,0.5
-eländig,neg,-2,0.75
-embellera,pos,2,0.75
+eländig,very-neg,-2,0.75
+embellera,very-pos,2,0.75
 embellerbar,pos,2,0.5
 embryonisk,neg,-2,0.5
 enahanda,neg,-2,0.5
-enastående,pos,2,0.75
+enastående,very-pos,2,0.75
 energisk,pos,2,0.25
 enfaldeligen,pos,2,0.5
 enformig,neg,-2,0.5
 engagerad,neg,-2,0.25
-enkel,pos,2,0.75
+enkel,very-pos,2,0.75
 ensam,neg,-2,0.25
 ensa,pos,2,0.25
 ensidig,neg,-2,0.25
 entusiastisk,pos,2,0.25
 entydig,pos,2,0.5
-erbarmligen,neg,-2,0.75
+erbarmligen,very-neg,-2,0.75
 erbarmlig,neg,-2,1.0
 ergonometrisk,pos,2,0.5
 erkänna,pos,2,0.25
-erkännsam,pos,2,0.75
+erkännsam,very-pos,2,0.75
 erotisk,neg,-2,0.25
 ersätta,neg,-2,0.25
 estetisk,pos,2,0.5
 etablerad,neg,-2,0.25
-etter_värre,neg,-2,0.75
-excellent,pos,2,0.75
+etter värre,very-neg,-2,0.75
+excellent,very-pos,2,0.75
 excentrisk,pos,2,0.25
 exklusiv,pos,2,0.5
 expediera,pos,2,0.25
-extrafin,pos,2,0.75
+extrafin,very-pos,2,0.75
 fager,pos,2,0.5
-falla_in,pos,2,0.25
-falla_samman,pos,2,0.25
-fallera,neg,-2,0.75
+falla in,pos,2,0.25
+falla samman,pos,2,0.25
+fallera,very-neg,-2,0.75
 falsk,neg,-2,0.25
 fantastisk,pos,2,1.0
 fantisera,pos,2,0.25
 farlig,neg,-2,0.25
-fatta_beslut,pos,2,0.25
+fatta beslut,pos,2,0.25
 fattig,neg,-2,0.25
 feberfri,pos,-2,1.0
 feberhet,neg,-2,0.5
-febersjuk,neg,-2,0.75
-febrig,neg,-2,0.75
+febersjuk,very-neg,-2,0.75
+febrig,very-neg,-2,0.75
 feja,pos,2,0.5
 felaktig,neg,-2,0.25
 felbehandlad,neg,2,1.0
 felfri,neg,-2,0.25
 fenomenal,pos,2,0.5
-festa,pos,2,0.75
-festlig,pos,2,0.75
+festa,very-pos,2,0.75
+festlig,very-pos,2,0.75
 fetera,pos,2,0.5
 fett,pos,2,1.0
 fientlig,neg,-2,0.25
-fina_fisken,pos,2,0.75
+fina fisken,very-pos,2,0.75
 finalklar,pos,2,0.5
 finbränna,pos,2,0.5
-finemang,pos,2,0.75
-finfin,pos,3,0.75
+finemang,very-pos,2,0.75
+finfin,very-pos,3,0.75
 fin,pos,2,1.0
-finskuren,pos,2,0.75
+finskuren,very-pos,2,0.75
 finstämd,pos,2,0.5
-fira,pos,2,0.75
+fira,very-pos,2,0.75
 fisig,neg,-2,0.5
 fixa,pos,2,0.5
 fjantig,neg,2,1.0
 fjompig,pos,2,0.5
-flabba,pos,2,0.75
+flabba,very-pos,2,0.75
 flabbig,pos,2,0.5
 flaggprydd,pos,2,0.5
 flashig,pos,2,0.5
 flattera,pos,2,0.5
-flina,pos,2,0.75
+flina,very-pos,2,0.75
 flitig,pos,2,0.25
 flott,pos,2,0.5
 flummig,pos,2,0.25
@@ -566,9 +566,9 @@ fly,neg,-2,0.25
 flytta,pos,2,0.25
 flytträtt,pos,2,0.5
 flörtig,pos,2,0.25
-fnissa,pos,2,0.75
+fnissa,very-pos,2,0.75
 fnissig,pos,2,0.5
-fnittra,pos,2,0.75
+fnittra,very-pos,2,0.75
 fnittrig,pos,2,0.5
 formfulländad,pos,2,0.5
 formskön,pos,2,0.5
@@ -592,39 +592,39 @@ fullbildad,pos,2,0.5
 fullgod,pos,2,1.0
 fullgången,pos,2,0.5
 fullkomlig,pos,2,1.0
-fullkomna,pos,2,0.75
+fullkomna,very-pos,2,0.75
 fullspäckad,pos,2,0.25
 fullständig,neg,-2,0.25
 fullviktig,pos,2,0.5
 fullvärdig,pos,2,1.0
-fulländad,pos,2,0.75
+fulländad,very-pos,2,0.75
 fullända,pos,2,0.5
-ful,neg,-2,0.75
+ful,very-neg,-2,0.75
 fundamental,pos,2,0.25
 fungera,pos,2,1.0
-funka,pos,2,0.75
-funktionell,pos,2,0.75
-funktionera,pos,2,0.75
-funktionsduglig,pos,2,0.75
+funka,very-pos,2,0.75
+funktionell,very-pos,2,0.75
+funktionera,very-pos,2,0.75
+funktionsduglig,very-pos,2,0.75
 funktionshindrad,neg,-2,0.25
 funktionsoduglig,neg,-2,0.5
 fuska,pos,2,0.25
 futuristisk,pos,2,0.25
 fysisk,pos,2,0.25
-fy_skam,neg,-2,0.75
+fy skam,very-neg,-2,0.75
 fånig,pos,2,0.5
-fånskratta,pos,2,0.75
+fånskratta,very-pos,2,0.75
 få,pos,2,0.25
-fägna,pos,2,0.75
+fägna,very-pos,2,0.75
 fägnas,pos,2,0.5
 fängsla,neg,-2,0.25
-färdigskämtad,pos,2,0.75
-färdigutvecklad,pos,2,0.75
+färdigskämtad,very-pos,2,0.75
+färdigutvecklad,very-pos,2,0.75
 färga,pos,2,0.25
 färgglad,pos,2,0.25
 färgstark,pos,2,0.25
 fästa,pos,2,0.25
-följa_upp,pos,2,0.25
+följa upp,pos,2,0.25
 följdenlig,pos,2,0.5
 förakta,neg,-2,1.0
 förarga,neg,-2,0.5
@@ -632,44 +632,44 @@ förbannad,neg,-2,0.5
 förbaskad,neg,-2,0.5
 förbindlig,pos,2,0.25
 förbittrad,neg,-2,0.5
-förbittra,neg,-2,0.75
-förbätterlig,pos,2,0.75
+förbittra,very-neg,-2,0.75
+förbätterlig,very-pos,2,0.75
 förbättra,pos,2,1.0
-fördelaktig,pos,2,0.75
-fördjupa_sig,pos,2,0.25
+fördelaktig,very-pos,2,0.75
+fördjupa sig,pos,2,0.25
 fördomsfull,neg,-2,0.25
-fördystra,neg,-2,0.75
+fördystra,very-neg,-2,0.75
 föredra,pos,2,1.0
 förenkla,pos,2,0.5
 föreslå,neg,-2,0.25
 förfalla,neg,-2,0.5
 förfinad,pos,2,0.5
-förfina,pos,2,0.75
+förfina,very-pos,2,0.75
 förfula,neg,-2,0.5
 förfölja,pos,2,0.25
 förföra,pos,2,0.25
 förgrova,neg,-2,0.5
-förgråten,neg,-2,0.75
+förgråten,very-neg,-2,0.75
 förgäves,neg,-2,0.5
 förhindra,neg,-2,0.25
 förkastlig,neg,-2,0.25
 förklara,pos,2,0.5
-förkovra_sig,pos,2,0.75
-förkrossad,neg,-2,0.75
+förkovra sig,very-pos,2,0.75
+förkrossad,very-neg,-2,0.75
 förkrossande,neg,-2,0.5
 förkrossa,neg,-2,0.5
 förlig,pos,2,0.5
 förljuva,pos,2,0.5
 förlora,neg,-2,0.5
-förlåta,pos,2,0.75
+förlåta,very-pos,2,0.75
 förlåtlig,pos,2,0.5
 förlänga,pos,2,0.25
 förlöjliga,pos,2,0.5
 förmultna,neg,-2,0.25
 förnya,pos,2,0.25
 förnämlig,pos,2,1.0
-förnäm,pos,2,0.75
-förnöjd,pos,2,0.75
+förnäm,very-pos,2,0.75
+förnöjd,very-pos,2,0.75
 förnöjsam,pos,2,0.5
 förorena,neg,-2,0.5
 förringa,pos,2,0.25
@@ -681,20 +681,20 @@ förskjuta,neg,-2,0.25
 förskylla,pos,2,0.5
 försköna,pos,2,0.5
 försona,pos,2,0.5
-förströ,pos,2,0.75
+förströ,very-pos,2,0.75
 förstående,pos,2,0.25
-förstämd,neg,-2,0.75
+förstämd,very-neg,-2,0.75
 förstärka,pos,2,0.25
 förstöra,neg,-2,0.5
 förstöras,neg,-2,0.25
-förstörd,neg,-2,0.75
+förstörd,very-neg,-2,0.75
 försumma,pos,2,0.25
 försvåra,neg,-2,0.5
 försämra,neg,-2,1.0
 försätta,pos,2,0.25
-förtjusande,pos,2,0.75
+förtjusande,very-pos,2,0.75
 förtjust,pos,2,1.0
-förtjäna,pos,2,0.75
+förtjäna,very-pos,2,0.75
 förtjänstfull,pos,2,1.0
 förtjänt,pos,2,0.5
 förträfflig,pos,2,1.0
@@ -702,35 +702,35 @@ förtörnas,neg,-2,0.5
 förundra,neg,-2,0.25
 förvekliga,pos,2,0.25
 förvriden,neg,-2,0.25
-förvärra,neg,-2,0.75
+förvärra,very-neg,-2,0.75
 förvärva,pos,2,0.25
 föryngra,pos,2,0.25
 föråldrad,neg,-2,0.25
-förädla,pos,2,0.75
-galant,pos,2,0.75
+förädla,very-pos,2,0.75
+galant,very-pos,2,0.75
 galen,pos,2,0.25
 galoschera,pos,2,0.5
 gammal,pos,2,0.25
 gapflabba,pos,2,0.5
-gapskratta,pos,2,0.75
-garva,pos,2,0.75
-ge_igen,neg,-2,0.5
-gemytlig,pos,2,0.75
+gapskratta,very-pos,2,0.75
+garva,very-pos,2,0.75
+ge igen,neg,-2,0.5
+gemytlig,very-pos,2,0.75
 generös,pos,2,0.25
 genmodifierad,pos,2,0.25
 genomelak,neg,-2,0.5
-genomgod,pos,2,0.75
+genomgod,very-pos,2,0.75
 genomhederlig,pos,3,0.5
 genomsnäll,pos,2,0.5
-genomusel,neg,-2,0.75
+genomusel,very-neg,-2,0.75
 genomärlig,pos,3,0.5
-ge_sig_av,pos,2,0.25
-ge_sig,pos,2,0.25
-ge_tillbaka,pos,2,0.25
-ge_upp,neg,-2,0.25
+ge sig av,pos,2,0.25
+ge sig,pos,2,0.25
+ge tillbaka,pos,2,0.25
+ge upp,neg,-2,0.25
 giftig,neg,-2,0.5
 gift,neg,-2,0.25
-gjuta_olja_på_elden,neg,-2,0.5
+gjuta olja på elden,neg,-2,0.5
 gladeligen_döda,neg,-2,0.5
 gladlynt,pos,2,1.0
 glad,pos,2,1.0
@@ -739,22 +739,22 @@ glida,pos,2,0.25
 glitterfin,pos,2,0.5
 glitterglad,pos,3,1.0
 glitterprydd,pos,2,0.5
-glädjande,pos,2,0.75
+glädjande,very-pos,2,0.75
 glädja,pos,2,1.0
-glädjebringande,pos,2,0.75
+glädjebringande,very-pos,2,0.75
 glädjedödare,neg,-2,0.5
-glädjefattig,pos,2,0.75
-glädjelös,pos,2,0.75
-glädjerik,pos,2,0.75
-glädjestrålande,pos,2,0.75
-glädjetom,pos,2,0.75
+glädjefattig,very-pos,2,0.75
+glädjelös,very-pos,2,0.75
+glädjerik,very-pos,2,0.75
+glädjestrålande,very-pos,2,0.75
+glädjetom,very-pos,2,0.75
 glättig,pos,2,1.0
-gnissla_med_tänderna,neg,-2,0.5
+gnissla med tänderna,neg,-2,0.5
 godhetsfull,pos,2,0.5
-godhjärtad,pos,2,0.75
-godhällig,pos,2,0.75
+godhjärtad,very-pos,2,0.75
+godhällig,very-pos,2,0.75
 godlynt,pos,2,0.5
-godmodig,pos,2,0.75
+godmodig,very-pos,2,0.75
 god,pos,2,1.0
 godsint,pos,2,0.5
 godtagbar,pos,2,0.25
@@ -763,7 +763,7 @@ gosig,pos,2,0.5
 gott,pos,2,0.25
 grabbig,pos,2,0.25
 graciös,pos,2,0.5
-grammatikalisk,pos,2,0.75
+grammatikalisk,very-pos,2,0.75
 grammatisk,pos,2,0.5
 gramse,neg,-2,0.5
 grann,pos,2,0.5
@@ -774,183 +774,183 @@ grave,neg,-2,0.5
 gravid,pos,2,0.25
 grav,neg,-2,0.5
 greppriktig,pos,2,0.5
-greppvänlig,pos,2,0.75
-grina,neg,-2,0.75
+greppvänlig,very-pos,2,0.75
+grina,very-neg,-2,0.75
 grinig,neg,-2,0.5
 grotesk,neg,-2,0.5
 grovhuggen,neg,-2,0.5
 grovkornig,neg,-2,0.5
 grovlagd,neg,-2,0.5
-grov,neg,-2,0.75
+grov,very-neg,-2,0.75
 grund,neg,-2,0.25
 grym,pos,2,0.25
 grågul,pos,2,0.25
 grå,neg,-2,0.5
-gråta_floder,neg,-2,0.5
+gråta floder,neg,-2,0.5
 gråta,neg,-2,1.0
-gråtlabil,neg,-2,0.75
+gråtlabil,very-neg,-2,0.75
 gräma,neg,-2,0.5
 grön,neg,-2,0.25
 gudilov,pos,2,0.5
-gudomlig,pos,2,0.75
-gudskelov,pos,2,0.75
+gudomlig,very-pos,2,0.75
+gudskelov,very-pos,2,0.75
 gullig,pos,2,0.5
 gynna,pos,2,0.25
-gynnsam,pos,2,0.75
-gå_bra,pos,2,0.5
-gå_hem,pos,2,0.5
-gå_i_bitar,neg,-2,0.25
-gå_ihop,pos,2,0.5
-gå_i_land,pos,2,0.5
-gå_illa,neg,-2,0.75
-gå_i_lås,pos,2,0.5
-gå_in,pos,2,0.25
-gå_i_pension,pos,2,0.25
-gå_i,pos,2,0.5
-gå_långt,pos,2,0.5
-gå,pos,2,0.75
-gå_sönder,neg,-2,0.5
-gå_upp_i_limningen,neg,-3,0.5
-gå_utför,neg,-2,0.75
-gå_ut,pos,2,0.5
-gå_vidare,pos,2,0.25
-gå_vägen,pos,2,0.5
+gynnsam,very-pos,2,0.75
+gå bra,pos,2,0.5
+gå hem,pos,2,0.5
+gå i bitar,neg,-2,0.25
+gå ihop,pos,2,0.5
+gå i land,pos,2,0.5
+gå illa,very-neg,-2,0.75
+gå i lås,pos,2,0.5
+gå in,pos,2,0.25
+gå i pension,pos,2,0.25
+gå i,pos,2,0.5
+gå långt,pos,2,0.5
+gå,very-pos,2,0.75
+gå sönder,neg,-2,0.5
+gå upp i limningen,neg,-3,0.5
+gå utför,very-neg,-2,0.75
+gå ut,pos,2,0.5
+gå vidare,pos,2,0.25
+gå vägen,pos,2,0.5
 gälda,pos,2,0.25
-gälla,pos,2,0.75
-göra_gott,pos,2,1.0
-göra_intryck,pos,2,0.75
-göra_livet_surt,pos,2,0.25
+gälla,very-pos,2,0.75
+göra gott,pos,2,1.0
+göra intryck,very-pos,2,0.75
+göra livet surt,pos,2,0.25
 göra,neg,-2,0.25
-göra_rätt_för_sig,pos,2,0.5
-göra_sig,pos,2,0.5
-göra_skäl,pos,2,0.5
-göra_stan,pos,2,0.5
-göra_upp_räkningen,neg,-2,0.5
-habilitera_sig,pos,2,0.75
-halvbra,pos,2,0.75
+göra rätt för sig,pos,2,0.5
+göra sig,pos,2,0.5
+göra skäl,pos,2,0.5
+göra stan,pos,2,0.5
+göra upp räkningen,neg,-2,0.5
+habilitera sig,very-pos,2,0.75
+halvbra,very-pos,2,0.75
 halvdöda,neg,-1,0.5
 halvdöd,neg,-1,0.5
 halvgången,neg,-2,0.25
 halvsmält,neg,-2,0.25
 halvädel,pos,2,0.5
-ha_ont,neg,-2,0.25
+ha ont,neg,-2,0.25
 ha,pos,2,0.25
-harangera,pos,2,0.75
+harangera,very-pos,2,0.75
 harangerbar,pos,2,0.5
 harhjärtad,neg,-2,0.25
 harmonisk,pos,2,0.5
-ha_rätt,pos,2,0.5
-ha_sönder,neg,-2,0.5
-hederlig,pos,2,0.75
-hedervärd,pos,2,0.75
+ha rätt,pos,2,0.5
+ha sönder,neg,-2,0.5
+hederlig,very-pos,2,0.75
+hedervärd,very-pos,2,0.75
 hedra,pos,2,0.5
-hejig,pos,2,0.75
-hela,pos,2,0.75
+hejig,very-pos,2,0.75
+hela,very-pos,2,0.75
 helnykter,pos,2,0.25
-helnöjd,pos,3,0.75
+helnöjd,very-pos,3,0.75
 hel,pos,2,1.0
 hemsk,neg,-2,1.0
-hemtrevlig,pos,2,0.75
-hemvävd,pos,2,0.75
+hemtrevlig,very-pos,2,0.75
+hemvävd,very-pos,2,0.75
 heta,pos,2,0.25
 himlaboren,pos,2,0.5
 hipp,pos,2,0.25
 hissa,neg,-2,0.25
-hivsmittad,neg,-2,0.75
+hivsmittad,very-neg,-2,0.75
 hjälpa,pos,2,0.25
-hjälpa_till,pos,2,0.25
+hjälpa till,pos,2,0.25
 hjälpsam,pos,2,0.25
 hjärndöda,neg,-2,0.5
 hjärndöd,neg,-2,0.5
-hjärteglad,pos,2,0.75
-hjärtegod,pos,2,0.75
+hjärteglad,very-pos,2,0.75
+hjärtegod,very-pos,2,0.75
 hjärtlig,pos,2,0.5
 honnett,pos,2,0.5
-hoppa_hage,pos,2,0.5
-hoppa_rep,pos,2,0.5
+hoppa hage,pos,2,0.5
+hoppa rep,pos,2,0.5
 hoppfull,neg,-2,0.25
 hoppingivande,pos,2,0.25
 horisontell,pos,2,0.25
 hormonbehandlad,pos,2,0.5
 hota,neg,-2,0.25
 hotfull,pos,2,0.25
-hugna,pos,2,0.75
+hugna,very-pos,2,0.75
 hugnesam,pos,2,0.5
 hulka,neg,-2,0.5
 human,pos,2,0.5
 humoristisk,pos,2,0.25
-hurtfrisk,pos,2,0.75
+hurtfrisk,very-pos,2,0.75
 hurtig,pos,2,1.0
 huslig,pos,2,0.25
 hyfsad,pos,2,1.0
 hygglig,pos,2,0.5
-hylla,pos,2,0.75
+hylla,very-pos,2,0.75
 hyperelegant,pos,3,0.5
 hypermodern,pos,2,0.25
-hyra_in,pos,2,0.25
+hyra in,pos,2,0.25
 hyvens,pos,2,0.5
-hålla_ihop,pos,2,0.25
-hålla_måttet,pos,2,0.75
-hålla,pos,2,0.75
-hålla_på,pos,2,0.25
-hålla_sig_för_skratt,neg,-2,0.5
-hålla_sig,pos,2,0.5
-hålla_streck,pos,2,0.5
+hålla ihop,pos,2,0.25
+hålla måttet,very-pos,2,0.75
+hålla,very-pos,2,0.75
+hålla på,pos,2,0.25
+hålla sig för skratt,neg,-2,0.5
+hålla sig,pos,2,0.5
+hålla streck,pos,2,0.5
 hållbar,pos,2,0.5
 hållfast,pos,2,0.5
 håna,neg,-2,0.5
 hånflina,pos,2,0.5
 hångrina,neg,-2,0.5
-hånle,pos,2,0.75
+hånle,very-pos,2,0.75
 hånskratta,neg,2,1.0
 hårdför,neg,-2,0.25
-håva_in,pos,2,0.5
+håva in,pos,2,0.5
 hädisk,neg,-2,0.25
 häftig,pos,2,0.5
-hälsomässig,pos,2,0.75
-hälsosam,pos,2,0.75
+hälsomässig,very-pos,2,0.75
+hälsosam,very-pos,2,0.75
 hämna,neg,-2,0.5
-hämnas,neg,-2,0.75
+hämnas,very-neg,-2,0.75
 hämndgirig,neg,-2,0.25
-hänga_läpp,neg,-2,1.0
-hänga_med_huvudet,neg,-2,1.0
-hänga_sig,neg,-2,0.25
+hänga läpp,neg,-2,1.0
+hänga med huvudet,neg,-2,1.0
+hänga sig,neg,-2,0.25
 häpen,pos,2,0.25
-härlig,pos,2,0.75
+härlig,very-pos,2,0.75
 härska,neg,-2,0.25
 härsken,neg,-2,0.5
-högakta,pos,2,0.75
+högakta,very-pos,2,0.75
 hög_dödlighet,neg,-2,0.5
 högfärdig,pos,2,0.25
 högförnäm,pos,2,0.5
-högklassig,pos,2,0.75
+högklassig,very-pos,2,0.75
 högljudd,neg,-2,0.25
 hög,pos,2,0.25
 högtidlighålla,pos,2,0.5
 högtidlig,neg,-2,0.5
-högtstående,pos,2,0.75
-högönsklig,pos,2,0.75
-hög_överdödlighet,neg,-2,0.75
-höja_till_skyarna,pos,2,0.75
-i_aktion,pos,2,0.25
-i_balans,pos,2,0.25
+högtstående,very-pos,2,0.75
+högönsklig,very-pos,2,0.75
+hög_överdödlighet,very-neg,-2,0.75
+höja till skyarna,very-pos,2,0.75
+i aktion,pos,2,0.25
+i balans,pos,2,0.25
 identifiera,neg,-2,0.25
 idérik,pos,2,0.25
-i_en_klass_för_sig,pos,2,0.75
+i en klass för sig,very-pos,2,0.75
 igengrodd,neg,-2,0.5
 iklä,pos,2,0.25
-illa_däran,neg,-2,1.0
+illa däran,neg,-2,1.0
 illaluktande,neg,-2,0.25
 illa,neg,-2,1.0
 illasinnad,pos,2,0.25
-illavulen,neg,-2,0.75
-illmarig,pos,2,0.75
+illavulen,very-neg,-2,0.75
+illmarig,very-pos,2,0.75
 illparig,pos,2,0.5
 illvillig,neg,-2,0.5
-impa,pos,2,0.75
-imponerande,pos,2,0.75
+impa,very-pos,2,0.75
+imponerande,very-pos,2,0.75
 imponera,pos,2,1.0
-imponerbar,pos,2,0.75
+imponerbar,very-pos,2,0.75
 inadekvat,neg,-2,0.5
 inaktiv,neg,-2,0.25
 inbillningssjuk,neg,-2,1.0
@@ -966,7 +966,7 @@ initiera,neg,-2,0.25
 inkonsekvent,neg,-2,0.5
 inkorrekt,neg,-2,0.5
 inkurabel,pos,2,0.5
-inlägga_förtjänst,pos,2,0.75
+inlägga förtjänst,very-pos,2,0.75
 inoperabel,pos,2,0.5
 inoperera,pos,2,0.5
 inopportun,neg,-2,0.5
@@ -975,73 +975,73 @@ inskränkt,neg,-2,0.25
 insmickrande,pos,2,0.5
 inställsam,pos,2,0.5
 intagande,pos,2,0.5
-intakt,pos,2,0.75
+intakt,very-pos,2,0.75
 intelligent,pos,2,0.25
 inte,neg,-2,0.25
 intensiv,pos,2,0.25
 intim,pos,2,0.25
 intressant,pos,2,0.25
-i_olag,neg,-2,0.75
+i olag,very-neg,-2,0.75
 ironisk,neg,-2,0.25
 irriterad,neg,-2,0.25
-i_sjunde_himlen,pos,2,0.5
-i_strykklass,neg,-2,1.0
-iståndsätta,pos,2,0.75
+i sjunde himlen,pos,2,0.5
+i strykklass,neg,-2,1.0
+iståndsätta,very-pos,2,0.75
 jobb-dödande,neg,-2,0.5
 jordens,pos,2,0.5
-jovialisk,pos,2,0.75
+jovialisk,very-pos,2,0.75
 jovial,pos,2,0.5
-jublande,pos,2,0.75
+jublande,very-pos,2,0.75
 jubla,pos,2,1.0
 julfirande,pos,2,0.5
 juvelprydd,pos,2,0.5
 jämmerlig,neg,-2,1.0
-jämna_vägen,pos,2,0.5
+jämna vägen,pos,2,0.5
 jättearg,neg,-3,0.5
-jättedålig,neg,-3,0.75
-jättefin,pos,3,0.75
+jättedålig,very-neg,-3,0.75
+jättefin,very-pos,3,0.75
 jätteglad,pos,3,1.0
 jättekul,pos,3,0.5
 jätteledsen,neg,-3,1.0
-jättelycklig,pos,3,0.75
-jättenöjd,pos,3,0.75
-jätterolig,pos,3,0.75
-jätteschyst,pos,3,0.75
+jättelycklig,very-pos,3,0.75
+jättenöjd,very-pos,3,0.75
+jätterolig,very-pos,3,0.75
+jätteschyst,very-pos,3,0.75
 jätteskojig,pos,3,0.5
 jätteskön,pos,3,0.5
 jättesnygg,pos,3,0.5
 jättesnäll,pos,3,0.5
 jättesvår,neg,-3,0.5
-jättetrevlig,pos,3,0.75
+jättetrevlig,very-pos,3,0.75
 jättetråkig,neg,-3,0.5
-kalasbra,pos,2,0.75
+kalasbra,very-pos,2,0.75
 kalla,pos,2,0.25
 kall,pos,2,0.25
 kamprydd,pos,2,0.5
 kanonbra,pos,3,1.0
-kanon,pos,2,0.75
+kanon,very-pos,2,0.75
 kaotisk,pos,2,0.25
 karakterisera,pos,2,0.25
 karg,neg,-2,0.25
 karikera,pos,2,0.25
-kasta_bort,neg,-2,0.25
+kasta bort,neg,-2,0.25
 kastrera,pos,2,0.25
 kirurgisk,pos,2,0.5
 klacka,pos,2,0.5
-klaffa,pos,2,0.75
+klaffa,very-pos,2,0.75
 klaga,neg,-2,0.5
 klara,pos,2,0.5
-klara_sig,pos,2,0.25
+klara sig,pos,2,0.25
 klargöra,pos,2,0.5
 klarlägga,pos,2,0.5
 klarna,pos,2,0.5
-klar,pos,2,0.75
+klar,very-pos,2,0.75
 klatschig,pos,2,0.5
-klent_utrustad,neg,-2,0.75
-klicka,neg,-2,0.75
-klimatförbättrande,pos,2,0.75
+klent utrustad,very-neg,-2,0.75
+klicka,very-neg,-2,0.75
+klimatförbättrande,very-pos,2,0.75
 klippa,neg,-2,0.25
-klockren,pos,2,0.75
+klockren,very-pos,2,0.75
 klok,pos,2,0.25
 klädd,pos,2,0.25
 klädsam,pos,2,0.5
@@ -1056,33 +1056,33 @@ knepig,neg,-2,0.5
 knivig,neg,-2,0.5
 knubbig,pos,2,0.25
 knyckig,neg,-2,0.25
-knäppa_av,pos,2,0.75
-knäppa_på,pos,2,0.75
+knäppa av,very-pos,2,0.75
+knäppa på,very-pos,2,0.75
 kolla,pos,2,0.25
 kolonisera,neg,-2,0.25
-komfortabel,pos,2,0.75
-komisk,pos,2,0.75
-komma_hem,pos,2,0.25
+komfortabel,very-pos,2,0.75
+komisk,very-pos,2,0.75
+komma hem,pos,2,0.25
 komma,pos,2,0.25
-komma_sig,pos,2,0.75
-komma_tillbaka,neg,-2,0.25
-komma_till_sin_rätt,pos,2,0.75
-komma_åt,neg,-2,0.75
+komma sig,very-pos,2,0.75
+komma tillbaka,neg,-2,0.25
+komma till sin rätt,very-pos,2,0.75
+komma åt,very-neg,-2,0.75
 kompetent,pos,2,0.25
 komplett,pos,2,0.25
 komplex,neg,-2,0.25
 komplicerad,neg,-2,0.5
 konflikträdd,neg,-2,0.25
 konkurrera,pos,2,0.25
-konsekvent,pos,2,0.75
+konsekvent,very-pos,2,0.75
 konservativ,pos,2,0.25
 konstig,neg,-2,0.25
 konstlad,neg,-2,0.25
 konststoppa,pos,2,0.5
 kontagiös,neg,-2,0.5
-kontaminera,neg,-2,0.75
+kontaminera,very-neg,-2,0.75
 kontaminerbar,neg,-2,0.5
-korrekt,pos,2,0.75
+korrekt,very-pos,2,0.75
 korrigera,pos,2,0.5
 kort,pos,2,0.25
 kortsiktig,neg,-2,0.25
@@ -1099,27 +1099,27 @@ kritisk,pos,2,0.25
 krokig,neg,-2,0.25
 kronisk,neg,-2,1.0
 krossa,neg,-2,0.5
-krya_på_sig,pos,2,0.75
+krya på sig,very-pos,2,0.75
 kryckig,neg,-2,1.0
 kry,pos,2,1.0
-krångla,neg,-2,0.75
+krångla,very-neg,-2,0.75
 krävande,neg,-2,0.5
 kulig,pos,2,0.5
-kul,pos,2,0.75
+kul,very-pos,2,0.75
 kunna,pos,2,0.25
 kunnig,pos,2,0.25
 kurant,pos,2,1.0
-kurativ,pos,2,0.75
-kurera,pos,2,0.75
+kurativ,very-pos,2,0.75
+kurera,very-pos,2,0.75
 kurerbar,pos,2,0.5
 kvantifiera,pos,2,0.25
 kvar,neg,-2,0.25
-kvickna_till,pos,2,0.75
-kvick,pos,2,0.75
+kvickna till,very-pos,2,0.75
+kvick,very-pos,2,0.75
 kvistig,neg,-2,0.5
 kylig,pos,2,0.25
 kyssa,pos,2,0.25
-käck,pos,2,0.75
+käck,very-pos,2,0.75
 kämpa,pos,2,0.25
 känna,pos,2,0.25
 känslig,pos,2,0.25
@@ -1130,70 +1130,70 @@ kärlekslös,neg,-2,0.25
 kärnfrisk,pos,2,1.0
 kättersk,neg,-2,0.25
 kölhala,neg,-2,0.5
-köpvärd,pos,2,0.75
+köpvärd,very-pos,2,0.75
 lack,neg,-2,0.5
 laddad,pos,2,0.25
 lagad,pos,2,0.5
-laga,pos,2,0.75
+laga,very-pos,2,0.75
 lappa,pos,2,0.5
 lastdryg,pos,2,0.25
 lat,neg,-2,0.25
 lattja,pos,2,0.5
 lattjo,pos,2,0.5
 ledsam,neg,-2,1.0
-le_i_mjugg,pos,2,0.75
-leka,pos,2,0.75
+le i mjugg,very-pos,2,0.75
+leka,very-pos,2,0.75
 lekfull,pos,2,0.5
 leklysten,pos,2,0.5
 le,pos,2,1.0
 leva,pos,2,0.25
-leva_upp,pos,2,0.25
-leva_ut,pos,2,0.25
+leva upp,pos,2,0.25
+leva ut,pos,2,0.25
 levnadsglad,pos,2,1.0
-ligga_lågt,pos,2,0.25
+ligga lågt,pos,2,0.25
 ligga,pos,2,0.25
 liggriktig,pos,2,0.5
 likvärdig,pos,2,0.25
 lindra,pos,2,0.5
-lindrig,pos,2,0.75
+lindrig,very-pos,2,0.75
 linjeren,pos,2,0.25
-lipa,neg,-2,0.75
+lipa,very-neg,-2,0.75
 lipig,neg,-2,0.5
 liten,neg,-2,0.25
-livad,pos,2,0.75
+livad,very-pos,2,0.75
 livlig,pos,2,0.25
 livsduglig,pos,2,0.5
-livskraftig,pos,2,0.75
-livsvänlig,pos,2,0.75
+livskraftig,very-pos,2,0.75
+livsvänlig,very-pos,2,0.75
 ljuga,pos,2,0.25
 ljus,pos,2,0.25
 ljuvlig,pos,2,0.5
 logisk,pos,2,0.5
-lova,pos,2,0.75
-lovorda,pos,2,0.75
+lova,very-pos,2,0.75
+lovorda,very-pos,2,0.75
 lovprisa,pos,2,0.5
 lovvärd,pos,2,0.5
 lugnande,pos,2,0.25
 lugn,neg,-2,0.25
-luguber,neg,-2,0.75
+luguber,very-neg,-2,0.75
 lumpen,neg,-2,0.5
 luras,neg,-2,0.25
-lustelig,pos,2,0.75
-lustig,pos,2,0.75
+lustelig,very-pos,2,0.75
+lustig,very-pos,2,0.75
 lyckad,pos,2,0.5
-lyckas,pos,2,0.75
+lyckas,very-pos,2,0.75
 lyckligen,pos,2,0.5
-lyckliggöra,pos,2,0.75
+lyckliggöra,very-pos,2,0.75
 lycklig,pos,2,1.0
-lyckligt_lottad,pos,2,0.75
+lyckligt lottad,very-pos,2,0.75
 lyckligtvis,pos,2,1.0
 lyckosam,pos,2,0.5
 lycksaliggöra,pos,2,0.5
-lycksalig,pos,2,0.75
-lyfta_sig,pos,2,1.0
+lycksalig,very-pos,2,0.75
+lyfta sig,pos,2,1.0
 lyrisk,pos,2,0.25
-lysande,pos,2,0.75
-lysa_upp,pos,2,1.0
+lysande,very-pos,2,0.75
+lysa upp,pos,2,1.0
 låg_dödlighet,neg,-2,0.25
 låg_dödlighet,pos,1,0.5
 långcovid,neg,-2,0.5
@@ -1205,10 +1205,10 @@ långtidscovid,neg,-2,0.5
 långtidssjuk,neg,-2,1.0
 långtråkig,neg,-2,0.5
 långvarig,neg,-2,0.25
-låta_nåd_gå_före_rätt,pos,2,0.5
-låta_sig_nöja,pos,2,0.75
-låta_udda_vara_jämnt,pos,2,0.5
-låta_udda_vara_jämt,pos,2,0.5
+låta nåd gå före rätt,pos,2,0.5
+låta sig nöja,very-pos,2,0.75
+låta udda vara jämnt,pos,2,0.5
+låta udda vara jämt,pos,2,0.5
 läcker,pos,2,0.25
 lägga,neg,-2,0.25
 läglig,pos,2,0.5
@@ -1216,32 +1216,32 @@ lägre_dödlighet,pos,1,0.5
 läka,pos,2,1.0
 läkbar,pos,2,0.5
 lämpa,pos,2,0.5
-lämpligen,pos,2,0.75
+lämpligen,very-pos,2,0.75
 lämplig,pos,2,1.0
 lärd,pos,2,0.25
-läsa_in,pos,2,0.25
+läsa in,pos,2,0.25
 lässvag,neg,-2,1.0
-läsvärd,pos,2,0.75
-lätteligen,pos,2,0.75
+läsvärd,very-pos,2,0.75
+lätteligen,very-pos,2,0.75
 lättförsvarad,pos,2,0.25
 lätt,pos,2,1.0
-lättroad,pos,2,0.75
+lättroad,very-pos,2,0.75
 lättrörd,neg,-2,0.25
 lättsam,pos,2,1.0
 lättsmickrad,pos,2,0.5
-lätt_som_en_plätt,pos,3,0.75
-lättvindig,pos,2,0.75
+lätt som en plätt,very-pos,3,0.75
+lättvindig,very-pos,2,0.75
 lättvunnen,pos,2,0.5
 löga,pos,2,0.5
 löjeväckande,neg,-2,0.25
-löjla_sig,pos,2,0.5
-löjlig,pos,2,0.75
+löjla sig,pos,2,0.5
+löjlig,very-pos,2,0.75
 lömsk,neg,-2,0.5
-löna_sig,pos,2,0.5
+löna sig,pos,2,0.5
 magnifik,neg,-2,0.25
 makalös,pos,2,0.5
 malplacerad,neg,-2,0.5
-mankera,neg,-2,0.75
+mankera,very-neg,-2,0.75
 manlig,pos,2,0.25
 massdödarna,neg,-2,0.5
 massdödarnas,neg,-2,0.5
@@ -1265,7 +1265,7 @@ mental,pos,2,0.25
 mentalsjuk,neg,-2,1.0
 mild,pos,2,0.25
 militär,pos,2,0.25
-miljöförbättrande,pos,2,0.75
+miljöförbättrande,very-pos,2,0.75
 mindre_dödliga,pos,1,0.5
 mindre_dödlighet,pos,1,0.5
 mindre_dödligt,pos,1,0.5
@@ -1273,7 +1273,7 @@ minera,pos,2,0.25
 minimalistisk,pos,2,0.25
 minimal_överdödlighet,neg,-1,0.5
 minnas,pos,2,0.25
-minnesvärd,pos,2,0.75
+minnesvärd,very-pos,2,0.75
 minska,pos,2,0.25
 miserabel,neg,-2,0.5
 missbelåten,neg,-2,0.5
@@ -1282,14 +1282,14 @@ missklä,pos,2,0.5
 misslyckad,neg,-2,0.25
 misslyckas,neg,-2,0.5
 missmodig,neg,-2,1.0
-missnöjd,neg,-2,0.75
+missnöjd,very-neg,-2,0.75
 misstämma,neg,-2,0.5
 mjuk,pos,2,0.25
-mjäll,pos,2,0.75
+mjäll,very-pos,2,0.75
 moderat,pos,2,0.25
 modernisera,pos,2,0.25
 modern,pos,2,0.25
-modfälld,neg,-2,0.75
+modfälld,very-neg,-2,0.75
 modlös,neg,-2,0.5
 modstulen,neg,-2,0.5
 moloken,neg,-2,0.5
@@ -1297,36 +1297,36 @@ mondän,pos,2,0.5
 monoton,neg,-2,0.25
 moralisera,pos,2,0.25
 morbid,neg,-2,0.5
-morgonpigg,pos,2,0.75
+morgonpigg,very-pos,2,0.75
 morra,neg,-2,0.25
 multiplicera,pos,2,0.25
 mumsig,pos,2,0.25
 munter,pos,2,1.0
-murrig,neg,-2,0.75
-mygla,pos,2,0.75
+murrig,very-neg,-2,0.75
+mygla,very-pos,2,0.75
 mysa,pos,2,0.5
 mysig,pos,2,0.25
-måla_fan_på_väggen,neg,-2,0.5
+måla fan på väggen,neg,-2,0.5
 måla,pos,2,0.25
 målerisk,pos,2,0.25
 mångfacetterad,pos,2,0.25
 må,pos,2,0.25
-må_som_en_prins,pos,2,0.75
+må som en prins,very-pos,2,0.75
 måttlig,pos,2,0.25
 mäktig,pos,2,1.0
-människoföraktande,neg,-2,0.75
+människoföraktande,very-neg,-2,0.75
 människovänlig,pos,2,0.5
-mänsklig,pos,2,0.75
+mänsklig,very-pos,2,0.75
 märkt_av_döden,neg,-2,0.5
 mörkna,neg,-2,0.25
-mörk,neg,-2,0.75
-naggande_god,pos,2,0.75
+mörk,very-neg,-2,0.75
+naggande god,very-pos,2,0.75
 naken,pos,2,0.25
 naturlig,pos,2,0.25
-naturskön,pos,2,0.75
+naturskön,very-pos,2,0.75
 nazistisk,neg,-2,0.25
 nedrig,neg,-2,0.5
-nedstämmande,neg,-2,0.75
+nedstämmande,very-neg,-2,0.75
 negativ,neg,-2,0.25
 negativt_covid-19,pos,2,0.5
 negativt_covid-19-prov,pos,2,0.5
@@ -1335,10 +1335,10 @@ negativt_covid,pos,2,0.5
 negativt_covid-prov,pos,2,0.5
 negativt_covid-test,pos,2,0.5
 negativt_covidtest,pos,2,0.5
-nere,neg,-2,0.75
+nere,very-neg,-2,0.75
 njuta,pos,2,0.5
 nobel,pos,2,0.5
-nojsa,pos,2,0.75
+nojsa,very-pos,2,0.75
 nu,neg,-2,0.25
 nya_covid-varianter,pos,2,0.5
 nya_digerdöden,neg,-2,0.5
@@ -1348,41 +1348,41 @@ ny,pos,2,0.25
 nystädad,pos,2,0.5
 nyter,pos,2,1.0
 nytvättad,pos,2,0.5
-nyutvecklad,pos,2,0.75
+nyutvecklad,very-pos,2,0.75
 nå,neg,-2,0.25
 näpsa,neg,-2,0.5
 nära,pos,2,0.25
-näringsriktig,pos,2,0.75
+näringsriktig,very-pos,2,0.75
 nätt,pos,2,0.5
 nöjd,pos,2,1.0
 oacceptabel,neg,-2,0.25
 oaktad,neg,-2,0.5
-oangenäm,neg,-2,0.75
+oangenäm,very-neg,-2,0.75
 oavbruten,pos,2,0.25
 obalanserad,neg,-2,0.5
-obedrövad,pos,2,0.75
+obedrövad,very-pos,2,0.75
 obegriplig,pos,2,0.25
 obegråten,pos,2,0.5
 obegåvad,neg,-2,0.25
 obehaglig,neg,-2,0.5
-obehindrat,pos,2,0.75
+obehindrat,very-pos,2,0.75
 obeivrad,pos,2,0.5
 obejublad,neg,-2,0.5
-obekväm,neg,-2,0.75
+obekväm,very-neg,-2,0.75
 obekymrad,neg,-2,0.25
 obemärkt,pos,2,0.25
 obeprövad,pos,2,0.25
-oberömd,neg,-2,0.75
-obesmittad,neg,-2,0.75
+oberömd,very-neg,-2,0.75
+obesmittad,very-neg,-2,0.75
 obestraffad,pos,2,0.5
 obetalbar,pos,2,0.5
 obetryckt,pos,2,0.5
 obeundrad,neg,-2,0.5
 oblid,neg,-2,0.5
-obotad,neg,-2,0.75
+obotad,very-neg,-2,0.75
 obotbar,pos,2,0.5
-obotlig,pos,2,0.75
-obättrad,neg,-2,0.75
+obotlig,very-pos,2,0.75
+obättrad,very-neg,-2,0.75
 också,pos,2,0.25
 odegenererad,pos,-2,0.5
 odegenererbar,neg,2,0.5
@@ -1391,14 +1391,14 @@ odeklinerbar,neg,-2,0.5
 odiskad,neg,-2,0.5
 odissad,pos,2,0.5
 odla,pos,2,0.25
-oduglig,neg,-2,0.75
+oduglig,very-neg,-2,0.75
 odödliga,pos,2,0.5
 odödligare,pos,2,0.5
 odödligares,pos,2,0.5
 odödligas,pos,2,0.5
-odödligaste,pos,3,0.75
-odödligastes,pos,3,0.75
-odödligast,pos,3,0.75
+odödligaste,very-pos,3,0.75
+odödligastes,very-pos,3,0.75
+odödligast,very-pos,3,0.75
 odödligasts,pos,2,0.5
 odödlige,pos,2,0.5
 odödliges,pos,2,0.5
@@ -1414,12 +1414,12 @@ offentliganställd,neg,-2,0.25
 ofirad,neg,-2,0.5
 ofokuserad,pos,2,0.25
 ofta,neg,-2,0.25
-ofullkomlig,neg,-2,0.75
+ofullkomlig,very-neg,-2,0.75
 ofullkomnad,neg,-2,0.5
 ofägnad,neg,-2,0.25
 oförbittrad,pos,2,0.5
 oförblommerad,pos,2,0.5
-oförbättrad,neg,-2,0.75
+oförbättrad,very-neg,-2,0.75
 ofördelaktig,neg,-2,0.5
 ofördystrad,pos,2,0.5
 oförfinad,neg,-2,0.5
@@ -1430,7 +1430,7 @@ oförnöjd,neg,-2,0.5
 oförskämd,neg,-2,0.5
 oförståelig,neg,-2,0.25
 oförställd,pos,2,0.5
-oförsämrad,pos,2,0.75
+oförsämrad,very-pos,2,0.75
 oförtjänad,neg,-2,0.5
 oförtjänt,pos,2,0.25
 oförvärrad,pos,2,0.5
@@ -1452,9 +1452,9 @@ ohyllad,neg,-2,0.5
 ohälsosam,neg,-2,0.5
 ohögaktad,neg,-2,0.5
 oimpad,neg,-2,0.5
-oimponerad,neg,-2,0.75
-oimponerbar,pos,2,0.75
-oinsjuknad,pos,2,0.75
+oimponerad,very-neg,-2,0.75
+oimponerbar,very-pos,2,0.75
+oinsjuknad,very-pos,2,0.75
 ointressant,neg,-2,0.25
 oja,pos,2,0.25
 ojämn,pos,2,0.25
@@ -1469,12 +1469,12 @@ olaglig,pos,2,0.25
 olik,neg,-2,0.25
 olovad,neg,-2,0.25
 olustig,neg,-2,0.5
-olycklig,neg,-2,0.75
+olycklig,very-neg,-2,0.75
 olyckligtvis,neg,-2,0.5
 oläkbar,pos,2,0.5
-oläkt,neg,-2,0.75
-olämplig,neg,-2,0.75
-ombonad,pos,2,0.75
+oläkt,very-neg,-2,0.75
+olämplig,very-neg,-2,0.75
+ombonad,very-pos,2,0.75
 om,neg,-2,0.25
 omodern,neg,-2,0.25
 omogen,neg,-2,0.25
@@ -1486,23 +1486,23 @@ oopererad,neg,-2,0.5
 oopererbar,pos,2,0.5
 opajad,pos,2,0.5
 opassande,neg,-2,0.5
-opasslig,neg,-2,0.75
+opasslig,very-neg,-2,0.75
 operabel,pos,2,0.5
-operativ,pos,2,0.75
-operera_in,pos,2,0.5
-operera,pos,2,0.75
+operativ,very-pos,2,0.75
+operera in,pos,2,0.5
+operera,very-pos,2,0.75
 opererbar,pos,2,0.5
 opersonlig,neg,-2,0.25
 opportunistisk,pos,2,0.5
-opportun,pos,2,0.75
+opportun,very-pos,2,0.75
 oprefererad,neg,-2,0.5
 oprefererbar,pos,2,0.5
 opretentiös,pos,2,0.25
 oprydd,neg,-2,0.5
-optimal,pos,2,0.75
+optimal,very-pos,2,0.75
 optimera,pos,2,0.5
 ordblind,neg,-2,0.25
-ordentlig,pos,2,0.75
+ordentlig,very-pos,2,0.75
 ordningsam,pos,2,0.5
 orenad,neg,-2,0.5
 oren,neg,-2,0.5
@@ -1510,7 +1510,7 @@ oresonlig,pos,2,0.25
 organiserad,pos,2,0.25
 organisk,pos,2,0.25
 originell,pos,2,0.25
-oriktig,neg,-2,0.75
+oriktig,very-neg,-2,0.75
 orimliga_dödssiffror,neg,-2,0.5
 orolig,neg,-2,0.25
 orosad,neg,-2,0.5
@@ -1523,10 +1523,10 @@ oseriös,pos,2,0.25
 oskyldig,pos,2,0.25
 oskön,neg,-2,0.5
 osorterad,neg,-2,0.25
-ostraffad,pos,2,0.75
+ostraffad,very-pos,2,0.75
 ostädad,neg,-2,0.5
 ostämd,neg,-2,0.5
-osund,neg,-2,0.75
+osund,very-neg,-2,0.75
 osäker,neg,-2,0.25
 osäll,neg,-2,0.5
 otidig,neg,-2,0.25
@@ -1535,7 +1535,7 @@ otillfredsställande,neg,-2,0.5
 otillfredsställd,neg,-2,0.5
 otjusig,neg,-2,0.5
 otjänlig,neg,-2,0.5
-otrevlig,neg,-2,0.75
+otrevlig,very-neg,-2,0.75
 otrivsam,neg,-2,0.25
 otryckt,neg,-2,0.25
 otvetydig,pos,2,0.5
@@ -1544,36 +1544,36 @@ oundviklig,pos,2,0.25
 ouppgraderad,neg,-2,0.5
 ouppgraderbar,pos,2,0.5
 outstanding,pos,2,0.5
-outvecklad,neg,-2,0.75
+outvecklad,very-neg,-2,0.75
 oviss,neg,-2,0.25
 ovitaliserad,neg,-2,0.5
 ovitaliserbar,neg,2,1.0
 ovänlig,neg,-2,0.5
-ovärdig,neg,-2,0.75
+ovärdig,very-neg,-2,0.75
 oädel,neg,-2,0.5
 oändamålsenlig,neg,-2,0.5
 oärlig,neg,-2,0.5
-paja,neg,-2,0.75
+paja,very-neg,-2,0.75
 pajig,neg,-2,1.0
 paj,neg,-2,0.5
 parallell,pos,2,0.25
 parant,pos,2,0.5
 partyglad,pos,2,1.0
-passa_ihop,pos,2,0.5
-passa_in,pos,2,0.5
+passa ihop,pos,2,0.5
+passa in,pos,2,0.5
 passande,pos,2,0.5
-passa,pos,2,0.75
-passa_samman,pos,2,0.5
-passlig,pos,2,0.75
+passa,very-pos,2,0.75
+passa samman,pos,2,0.5
+passlig,very-pos,2,0.75
 pedagogisk,pos,2,0.25
-pekoralistisk,neg,-2,0.75
-perfekt,pos,2,0.75
+pekoralistisk,very-neg,-2,0.75
+perfekt,very-pos,2,0.75
 personlig,pos,2,0.25
-pessimistisk,neg,-2,0.75
-piggelin,pos,2,0.75
-piggna_till,pos,2,0.75
+pessimistisk,very-neg,-2,0.75
+piggelin,very-pos,2,0.75
+piggna till,very-pos,2,0.75
 pigg,pos,2,1.0
-pikant,pos,2,0.75
+pikant,very-pos,2,0.75
 pillemarisk,pos,2,0.5
 pingstvänlig,pos,2,0.5
 pissig,neg,-2,1.0
@@ -1581,51 +1581,51 @@ pjåkig,neg,-2,1.0
 planera,pos,2,0.25
 plattfotad,neg,-2,0.25
 plikttrogen,pos,2,0.25
-plocka_fram,pos,2,0.25
+plocka fram,pos,2,0.25
 plump,neg,-2,0.5
 plågsam,pos,2,0.25
 politisk,pos,2,0.25
-politiskt_korrekt,pos,2,0.5
+politiskt korrekt,pos,2,0.5
 pompös,pos,2,0.25
 poppig,pos,2,0.25
 positiv,neg,-2,0.25
 postcovid,neg,-2,0.5
-praktfull,pos,2,0.75
+praktfull,very-pos,2,0.75
 praktisk,pos,2,0.25
 prata,pos,2,0.25
 predika,pos,2,0.25
-preferera,pos,2,0.75
+preferera,very-pos,2,0.75
 prefererbar,pos,2,0.5
 presentabel,pos,2,0.5
 presentera,pos,2,0.25
-prima,pos,2,0.75
+prima,very-pos,2,0.75
 prisa,pos,2,0.25
 prisbelöna,pos,2,0.25
-prisvärd,pos,2,0.75
-profitera,pos,2,0.75
+prisvärd,very-pos,2,0.75
+profitera,very-pos,2,0.75
 proper,pos,2,0.5
 provokativ,neg,-2,0.25
 prudentlig,pos,2,0.5
-pryda,pos,2,0.75
+pryda,very-pos,2,0.75
 prydd,pos,2,0.5
 prydlig,pos,2,0.5
 präktig,pos,2,1.0
 puckelryggig,pos,2,0.25
 purken,neg,-2,0.5
-pur,pos,2,0.75
+pur,very-pos,2,0.75
 putslustig,pos,2,0.5
 pynta,pos,2,0.5
-pyrt,neg,-2,0.75
+pyrt,very-neg,-2,0.75
 pyton,neg,-2,1.0
 pålitlig,pos,2,0.25
 påskfirande,pos,2,0.5
-på_topp,pos,2,0.75
+på topp,very-pos,2,0.75
 raffig,pos,2,0.5
 raffinerad,pos,2,0.5
 raffinera,pos,2,0.5
 rak,pos,2,0.5
 raljant,pos,2,0.5
-raljera,pos,2,0.75
+raljera,very-pos,2,0.75
 rapa,neg,-2,0.25
 rar,pos,2,0.5
 rasande,neg,-3,0.5
@@ -1635,15 +1635,15 @@ redo,pos,2,0.25
 regeringsduglig,pos,2,0.5
 regna,neg,-2,0.25
 rejäl,pos,2,0.5
-reko,pos,2,0.75
+reko,very-pos,2,0.75
 relevant,pos,2,0.25
 rena_döden,neg,-2,0.5
-rena,pos,2,0.75
+rena,very-pos,2,0.75
 renhårig,pos,2,0.5
-renlig,pos,2,0.75
+renlig,very-pos,2,0.75
 ren,pos,2,1.0
 reparera,pos,2,0.5
-resa_bort,pos,2,0.25
+resa bort,pos,2,0.25
 resa,pos,2,0.25
 respektera,pos,2,0.5
 resultera,neg,-2,0.25
@@ -1657,11 +1657,11 @@ risa,pos,2,0.25
 risig,neg,-2,1.0
 riva,neg,-2,0.5
 rivas,neg,-2,0.25
-road,pos,2,0.75
+road,very-pos,2,0.75
 roa,pos,2,1.0
-roa_sig,pos,2,0.75
+roa sig,very-pos,2,0.75
 rolig,pos,2,1.0
-rosa,pos,2,0.75
+rosa,very-pos,2,0.75
 rosettprydd,pos,2,0.5
 rotfylla,pos,2,0.5
 rubba,neg,-2,0.5
@@ -1671,16 +1671,16 @@ rusa,neg,-2,0.25
 rusta,pos,2,0.5
 rustik,neg,-2,0.5
 rutten,neg,-2,1.0
-rycka_upp,pos,2,0.75
-rycka_upp_sig,pos,2,1.0
+rycka upp,very-pos,2,0.75
+rycka upp sig,pos,2,1.0
 rykta,pos,2,0.25
 råna,neg,-2,0.25
 rädd,pos,2,0.25
 rätlinjig,pos,2,0.25
 rätta,pos,2,0.5
-rätta_till,pos,2,0.5
+rätta till,pos,2,0.5
 rättfram,pos,2,0.5
-rätt,pos,2,0.75
+rätt,very-pos,2,0.75
 rättrådig,pos,2,0.5
 rättskaffens,pos,2,0.5
 rättvisande,pos,2,0.5
@@ -1688,13 +1688,13 @@ rättvis,pos,2,0.25
 rödgråten,neg,-2,0.5
 röja,pos,2,0.5
 röra,pos,2,0.25
-sagolik,pos,2,0.75
+sagolik,very-pos,2,0.75
 sakna,pos,2,0.25
-sakta_ner,pos,2,0.25
+sakta ner,pos,2,0.25
 saktmodig,pos,2,0.25
-salig,pos,2,0.75
+salig,very-pos,2,0.75
 samlad,pos,2,0.25
-samla_ihop,pos,2,0.25
+samla ihop,pos,2,0.25
 samla,pos,2,0.25
 sammanbiten,neg,-2,0.25
 sammanhållen,pos,2,0.25
@@ -1703,43 +1703,43 @@ samstämmig,pos,2,0.5
 sanera,pos,2,0.5
 sank,neg,-2,0.25
 sanna,pos,2,0.5
-sann,pos,2,0.75
+sann,very-pos,2,0.75
 sarkastisk,neg,-2,0.5
 sars-cov-2,neg,-2,0.5
 satirisk,pos,2,0.25
 schematisera,neg,-2,0.25
 schematisk,pos,2,0.5
 sebar,pos,2,0.5
-se_genom_fingrarna,pos,2,0.5
+se genom fingrarna,pos,2,0.5
 segerglad,pos,2,1.0
 seg,neg,-2,0.25
-segra,pos,2,0.75
+segra,very-pos,2,0.75
 sekunda,neg,-2,1.0
 se,pos,2,0.25
 seren,pos,2,0.5
 seriös,neg,-2,0.5
 servil,pos,2,0.25
-se_ut,pos,2,0.25
-sevärd,pos,2,0.75
+se ut,pos,2,0.25
+sevärd,very-pos,2,0.75
 silverklar,pos,2,0.5
 simpel,neg,-2,1.0
-sinnessjuk,neg,-2,0.75
+sinnessjuk,very-neg,-2,0.75
 sinnessvag,neg,-2,0.5
 sinnlig,pos,2,0.25
 sirlig,pos,2,0.5
-sitta_bra,pos,2,0.5
-sitta_fint,pos,2,0.5
+sitta bra,pos,2,0.5
+sitta fint,pos,2,0.5
 sitta,pos,2,0.5
-sittriktig,pos,2,0.75
-sittvänlig,pos,2,0.75
+sittriktig,very-pos,2,0.75
+sittvänlig,very-pos,2,0.75
 sjabbig,neg,-2,0.5
 sjaskig,neg,-2,0.5
 sjuckert,pos,2,1.0
-sjukhusren,pos,2,0.75
+sjukhusren,very-pos,2,0.75
 sjuklig,neg,-2,1.0
-sjukna,neg,-2,0.75
+sjukna,very-neg,-2,0.75
 sjuk,neg,-2,1.0
-sju_resor_värre,neg,-2,0.75
+sju resor värre,very-neg,-2,0.75
 själaglad,pos,3,1.0
 själsdödande,neg,-2,0.5
 själssjuk,neg,-2,1.0
@@ -1748,9 +1748,9 @@ självdöda,neg,-2,0.5
 självdödare,neg,-2,0.5
 självdödares,neg,-2,0.5
 självdödas,neg,-2,0.5
-självdödaste,neg,-3,0.75
-självdödastes,neg,-3,0.75
-självdödast,neg,-3,0.75
+självdödaste,very-neg,-3,0.75
+självdödastes,very-neg,-3,0.75
+självdödast,very-neg,-3,0.75
 självdödasts,neg,-2,0.5
 självdöde,neg,-2,0.5
 självdödes,neg,-2,0.5
@@ -1758,12 +1758,12 @@ självdöd,neg,-2,0.5
 självdöds,neg,-2,0.5
 självgod,pos,2,0.25
 självklar,pos,2,0.5
-självläka,pos,2,0.75
+självläka,very-pos,2,0.75
 självständig,pos,2,0.25
 självsäker,pos,2,0.25
 sjöduglig,pos,2,0.5
 sjösäker,pos,2,0.5
-sjövärdig,pos,2,0.75
+sjövärdig,very-pos,2,0.75
 skada/döda,neg,-2,0.5
 skada,neg,-2,0.5
 skadeglad,pos,2,1.0
@@ -1772,26 +1772,26 @@ skamlig,pos,2,0.25
 skapa,neg,-2,0.25
 skaplig,pos,2,1.0
 skarpladdad,pos,2,0.25
-sketen,neg,-2,0.75
-skicka_in,pos,2,0.25
+sketen,very-neg,-2,0.75
+skicka in,pos,2,0.25
 skicklig,pos,2,0.25
 skingra,neg,-2,0.25
 skitbra,pos,3,1.0
 skitcoviden,neg,-2,0.5
 skitdålig,neg,-3,1.0
-skitglad,pos,2,0.75
+skitglad,very-pos,2,0.75
 skitkul,pos,3,0.5
 skitnöjd,pos,2,0.5
 skitsnygg,pos,3,0.5
 skittråkig,neg,-3,0.5
-skoja,pos,2,0.75
+skoja,very-pos,2,0.75
 skojfrisk,pos,2,0.5
-skojig,pos,2,0.75
+skojig,very-pos,2,0.75
 skral,neg,-2,1.0
 skratta,pos,2,1.0
 skrattretande,pos,2,0.5
 skriva,pos,2,0.25
-skrocka,pos,2,0.75
+skrocka,very-pos,2,0.75
 skruttig,neg,-2,1.0
 skrynklig,neg,-2,0.25
 skräckinjagande,neg,-2,0.25
@@ -1800,72 +1800,72 @@ skumtvätta,pos,2,0.5
 skunkig,neg,-2,1.0
 skura,pos,2,0.5
 skydda,pos,2,0.25
-skyddsvärd,pos,2,0.75
+skyddsvärd,very-pos,2,0.75
 skämta,pos,2,1.0
-skämtsam,pos,2,0.75
-skära_i_ögonen,neg,-2,0.5
+skämtsam,very-pos,2,0.75
+skära i ögonen,neg,-2,0.5
 skära,pos,2,0.5
-skära_sig,neg,-2,0.5
-skärpa_sig,pos,2,1.0
+skära sig,neg,-2,0.5
+skärpa sig,pos,2,1.0
 skölja,pos,2,0.25
-skön,pos,2,0.75
+skön,very-pos,2,0.75
 sköra,neg,-2,0.5
 skör,neg,-2,0.25
 slagfärdig,pos,2,0.5
 slapp,neg,-2,0.25
 slemmig,neg,-2,0.5
-slem,neg,-2,0.75
+slem,very-neg,-2,0.75
 slingra,pos,2,0.25
 sliten,neg,-2,0.25
 sluta,pos,2,0.25
 slutskämtad,pos,2,0.5
-slå_klackarna_i_taket,pos,2,0.5
-slå_på_fingrarna,pos,2,0.75
-slå_sig_till_ro,pos,2,0.25
-slå_sönder,neg,-2,0.5
-slå_väl_ut,pos,2,0.5
+slå klackarna i taket,pos,2,0.5
+slå på fingrarna,very-pos,2,0.75
+slå sig till ro,pos,2,0.25
+slå sönder,neg,-2,0.5
+slå väl ut,pos,2,0.5
 släcka,pos,2,0.25
-släppa_gäcken_lös,pos,2,0.75
-släppa_igenom,pos,2,0.25
+släppa gäcken lös,very-pos,2,0.75
+släppa igenom,pos,2,0.25
 smaklös,neg,-2,0.25
 smart,pos,2,0.25
 smickrad,pos,2,0.5
 smickrande,pos,2,0.5
-smickra,pos,2,0.75
-smila,pos,2,0.75
+smickra,very-pos,2,0.75
+smila,very-pos,2,0.75
 smitta,neg,-2,1.0
 smittbar,neg,-2,0.5
-smittbärande,neg,-2,0.75
+smittbärande,very-neg,-2,0.75
 smutsa,neg,-2,0.5
-smutsig,neg,-2,0.75
+smutsig,very-neg,-2,0.75
 småaktig,neg,-2,0.25
 småelak,neg,-2,0.5
 småflina,pos,2,0.5
 småleende,pos,2,0.5
-småle,pos,2,0.75
-smårolig,pos,2,0.75
-småskratta,pos,2,0.75
+småle,very-pos,2,0.75
+smårolig,very-pos,2,0.75
+småskratta,very-pos,2,0.75
 småskuren,pos,2,0.25
 småsur,neg,-2,0.5
-småtrevlig,pos,2,0.75
+småtrevlig,very-pos,2,0.75
 småtråkig,neg,-2,0.5
 smått,pos,2,0.25
 smäktande,pos,2,0.25
-smälta_in,pos,2,0.25
+smälta in,pos,2,0.25
 snabb,pos,2,0.25
-snarfager,pos,2,0.75
-snar,pos,2,0.75
+snarfager,very-pos,2,0.75
+snar,very-pos,2,0.75
 snarvacker,pos,2,0.5
 sned,neg,-2,0.5
 snitsig,pos,2,0.5
 snuskig,neg,-2,0.5
 snutfager,pos,2,0.5
-snyfta,neg,-2,0.75
-snygga_till,pos,2,0.5
-snygga_upp,pos,2,0.5
-snygg,pos,2,0.75
+snyfta,very-neg,-2,0.75
+snygga till,pos,2,0.5
+snygga upp,pos,2,0.5
+snygg,very-pos,2,0.75
 snårig,neg,-2,0.25
-snäll,pos,2,0.75
+snäll,very-pos,2,0.75
 snärtig,pos,2,0.5
 snörpa,neg,-2,0.5
 sober,pos,2,0.5
@@ -1877,33 +1877,33 @@ solenn,neg,-2,0.25
 solid,pos,2,0.25
 solig,pos,2,0.25
 solkig,neg,-2,0.5
-som_en_öppen_bok,pos,2,0.5
+som en öppen bok,pos,2,0.5
 sopa,pos,2,0.5
-sorgbunden,neg,-2,0.75
+sorgbunden,very-neg,-2,0.75
 sorgesam,neg,-2,0.5
-sorglig,neg,-2,0.75
+sorglig,very-neg,-2,0.75
 sorglustig,pos,2,0.5
-sorgmodig,neg,-2,0.75
+sorgmodig,very-neg,-2,0.75
 sorgsen,neg,-2,1.0
-sorgtyngd,neg,-2,0.75
+sorgtyngd,very-neg,-2,0.75
 sova,neg,-2,0.25
-spela_in,pos,2,0.25
+spela in,pos,2,0.25
 spela,pos,2,0.25
-spela_upp,pos,2,0.25
+spela upp,pos,2,0.25
 splittra,neg,-2,0.5
-spola_ned,pos,2,0.25
+spola ned,pos,2,0.25
 spontan,pos,2,0.25
 spricka,neg,-2,0.5
 sprida,pos,2,0.25
-springa_fram,neg,-2,0.25
-springa_in,neg,-2,0.25
-språkriktig,pos,2,0.75
-spränga_banken,pos,2,0.5
+springa fram,neg,-2,0.25
+springa in,neg,-2,0.25
+språkriktig,very-pos,2,0.75
+spränga banken,pos,2,0.5
 spydig,neg,-2,0.5
 stanna,pos,2,0.25
 stark,pos,2,0.25
 sterilisera,neg,2,1.0
-steril,pos,2,0.75
+steril,very-pos,2,0.75
 stilig,pos,2,0.5
 stillös,neg,-2,0.25
 stirra,pos,2,0.25
@@ -1912,31 +1912,31 @@ stjärnklar,pos,2,0.5
 stolt,pos,2,0.5
 stoppa,neg,2,1.0
 storartad,pos,2,0.25
-storgråta,neg,-2,0.75
-stormförtjust,pos,3,0.75
+storgråta,very-neg,-2,0.75
+stormförtjust,very-pos,3,0.75
 stor,pos,2,0.25
-storskratta,pos,2,0.75
+storskratta,very-pos,2,0.75
 storslagen,pos,2,0.25
 stortjuta,neg,-2,0.5
 storvuxen,neg,-2,0.25
 straffa,neg,-2,1.0
-straffbar,neg,-2,0.75
+straffbar,very-neg,-2,0.75
 stram,neg,-2,0.25
 stressad,neg,-2,0.25
 stressig,neg,-2,0.25
 stridsduglig,pos,2,0.5
 struntförnäm,pos,2,0.5
-strålande,pos,2,0.75
-sträcka_på_sig,pos,2,0.25
+strålande,very-pos,2,0.75
+sträcka på sig,pos,2,0.25
 sträng,neg,-2,0.25
 strömlinjeformad,pos,2,0.25
 studentikos,pos,2,0.5
 stygg,neg,-2,0.5
 stå,neg,-2,0.25
 städad,pos,2,0.5
-städa,pos,2,0.75
-städa_undan,pos,2,0.5
-stämma,pos,2,0.75
+städa,very-pos,2,0.75
+städa undan,pos,2,0.5
+stämma,very-pos,2,0.75
 stärka,pos,2,0.25
 stökig,neg,-2,0.25
 störa,neg,-2,0.25
@@ -1949,24 +1949,24 @@ sula,pos,2,0.5
 sund,pos,2,1.0
 sunkig,neg,-2,1.0
 supa,pos,2,0.25
-superfin,pos,3,0.75
+superfin,very-pos,3,0.75
 superglad,pos,3,1.0
 superkul,pos,3,0.5
-superlätt,pos,3,0.75
+superlätt,very-pos,3,0.75
 supernöjd,pos,3,0.5
 superstark,pos,2,0.25
 sura,neg,-2,0.5
 surmagad,neg,-2,0.5
 surmulen,neg,-2,0.5
-sur,neg,-2,0.75
-suverän,pos,2,0.75
+sur,very-neg,-2,0.75
+suverän,very-pos,2,0.75
 svarta_döden,neg,-2,0.5
-svart_i_synen,neg,-2,0.5
-svart,neg,-2,0.75
+svart i synen,neg,-2,0.5
+svart,very-neg,-2,0.75
 svartsynt,neg,-2,0.5
 svettas,neg,-2,0.25
 svettig,pos,2,0.25
-svinbra,pos,2,0.75
+svinbra,very-pos,2,0.75
 svindyr,pos,2,0.25
 svira,pos,2,0.5
 svårartad,neg,-2,0.5
@@ -1975,8 +1975,8 @@ svårbemästrad,neg,-2,0.5
 svårbotad,neg,2,1.0
 svårligen,neg,-2,0.5
 svårlöst,neg,-2,0.5
-svårmodig,neg,-2,0.75
-svår,neg,-2,0.75
+svårmodig,very-neg,-2,0.75
+svår,very-neg,-2,0.75
 svårt_covidsjuka,neg,-2,0.5
 svårt_covidsjuka_äldre,neg,-2,0.25
 svältdödarna,neg,-2,0.5
@@ -1994,76 +1994,76 @@ syndig,neg,-2,0.25
 syrak,neg,-2,0.5
 syrlig,neg,-2,0.5
 systematisk,pos,2,0.25
-såld,pos,2,0.75
+såld,very-pos,2,0.75
 såra,pos,2,0.25
 sälja,pos,2,0.25
-säll,pos,2,0.75
+säll,very-pos,2,0.75
 sällskaplig,pos,2,0.25
-sällskapsgråta,neg,-2,0.75
+sällskapsgråta,very-neg,-2,0.75
 sängliggande,neg,-2,1.0
 sätta,neg,-2,0.25
-sönder,neg,-2,0.75
+sönder,very-neg,-2,0.75
 söndra,neg,-2,0.5
 sörja,neg,-2,1.0
-söt,pos,2,0.75
+söt,very-pos,2,0.75
 sötsur,neg,-2,0.5
-tacksam,pos,2,0.75
-ta_emot,pos,2,0.25
-ta_fram,pos,2,0.25
+tacksam,very-pos,2,0.75
+ta emot,pos,2,0.25
+ta fram,pos,2,0.25
 taggad,pos,2,0.25
 tajt,neg,-2,0.25
 talangfull,pos,2,0.25
-tala_sanning,pos,2,0.5
-tala_väl,pos,2,0.75
+tala sanning,pos,2,0.5
+tala väl,very-pos,2,0.75
 tandlös,neg,-2,0.25
 ta,pos,2,0.25
-tappa_modet,neg,-2,0.5
+tappa modet,neg,-2,0.5
 tapper,pos,2,0.25
-ta_sig_i_brasan,neg,-2,0.75
-ta_sig_i_röven,neg,-2,0.75
-ta_sig,pos,2,1.0
+ta sig i brasan,very-neg,-2,0.75
+ta sig i röven,very-neg,-2,0.75
+ta sig,pos,2,1.0
 taskig,neg,-2,0.5
-ta_slut,neg,-2,0.25
-ta_till_lipen,neg,-2,0.5
-ta_till_nåder,pos,2,0.5
-tidernas,pos,2,0.75
+ta slut,neg,-2,0.25
+ta till lipen,neg,-2,0.5
+ta till nåder,pos,2,0.5
+tidernas,very-pos,2,0.75
 tidig,pos,2,0.25
-tidstrogen,pos,2,0.75
+tidstrogen,very-pos,2,0.75
 tillfredsställande,pos,2,0.5
-tillfredsställa,pos,2,0.75
-tillfredsställd,pos,2,0.75
+tillfredsställa,very-pos,2,0.75
+tillfredsställd,very-pos,2,0.75
 tillfällig,pos,2,0.25
 tillge,pos,2,0.5
 tillgiven,pos,2,0.25
 tillgodose,pos,2,0.5
 tillintetgjord,neg,-2,0.5
-till_lags,pos,2,0.75
-tillrådlig,pos,2,0.75
+till lags,very-pos,2,0.75
+tillrådlig,very-pos,2,0.75
 tillräcklig,pos,2,0.25
 tilltagsen,neg,-2,0.25
 timid,pos,2,0.25
 tjura,neg,-2,0.5
-tjusig,pos,2,0.75
+tjusig,very-pos,2,0.75
 tjuvaktig,neg,-2,0.25
-tjäna,pos,2,0.75
-tjänstbar,pos,2,0.75
+tjäna,very-pos,2,0.75
+tjänstbar,very-pos,2,0.75
 tjänstduglig,pos,2,0.5
 tjänstvillig,pos,2,0.25
-tokig,pos,2,0.75
+tokig,very-pos,2,0.75
 tokrolig,pos,2,0.5
 tonande,pos,2,0.25
-tona_ned,neg,-2,0.25
+tona ned,neg,-2,0.25
 tongivande,pos,2,0.25
 tonlös,neg,2,1.0
-toppa,pos,2,0.75
+toppa,very-pos,2,0.75
 toppenbra,pos,3,1.0
-toppen,pos,2,0.75
+toppen,very-pos,2,0.75
 torr,neg,-2,0.5
-torrolig,pos,2,0.75
-torrögd,pos,2,0.75
+torrolig,very-pos,2,0.75
+torrögd,very-pos,2,0.75
 traditionell,neg,-2,0.25
 tragikomisk,pos,2,0.5
-tragisk,neg,-2,0.75
+tragisk,very-neg,-2,0.75
 traselegant,pos,2,0.5
 trasig,neg,-2,0.5
 trevlig,pos,2,1.0
@@ -2074,9 +2074,9 @@ troféprydd,pos,2,0.5
 tro,pos,2,0.5
 trumpen,neg,-2,0.5
 tryckande,neg,-2,0.25
-tryckt,neg,-2,0.75
-tråka_ut,neg,-2,0.5
-tråkig,neg,-2,0.75
+tryckt,very-neg,-2,0.75
+tråka ut,neg,-2,0.5
+tråkig,very-neg,-2,0.75
 trång,neg,-2,0.25
 träaktig,neg,-2,0.5
 trägen,neg,-2,0.25
@@ -2087,80 +2087,80 @@ trött,neg,-2,0.25
 tröttsam,neg,-2,0.5
 tuff,pos,2,0.5
 tukta,neg,-2,0.5
-tung,neg,-2,0.75
+tung,very-neg,-2,0.75
 tungsint,neg,-2,0.5
 tungvrickande,neg,-2,0.25
 tvaga,pos,2,0.5
 tvungen,neg,-2,0.25
-tvålfager,pos,2,0.75
+tvålfager,very-pos,2,0.75
 tvångsvårda,pos,2,0.25
 två,pos,2,0.5
 tvärarg,neg,-2,0.5
 tvär,neg,-2,0.5
 tvärpolitisk,pos,2,0.25
-tvätta_av,pos,2,0.5
-tvätta_bort,pos,2,0.5
-tvätta,pos,2,0.75
+tvätta av,pos,2,0.5
+tvätta bort,pos,2,0.5
+tvätta,very-pos,2,0.75
 tvättbar,pos,2,0.5
 tydlig,pos,2,0.5
 tyken,neg,-2,0.5
 tystlåten,neg,-2,0.25
 tyst,pos,2,0.25
-tyvärr,neg,-2,0.75
+tyvärr,very-neg,-2,0.75
 täckelig,pos,2,0.5
-täck,pos,2,0.75
-tänka_om,pos,2,0.25
+täck,very-pos,2,0.75
+tänka om,pos,2,0.25
 tänka,pos,2,0.25
 tävla,pos,2,0.5
 ulka,neg,-2,0.5
-under_all_kritik,neg,-2,0.75
+under all kritik,very-neg,-2,0.75
 underbar,pos,2,1.0
 underdödlighet,pos,1,0.5
 underfundig,pos,2,0.25
-underhaltig,neg,-2,0.75
+underhaltig,very-neg,-2,0.75
 underhållande,pos,2,0.5
-underhålla,pos,2,0.75
-under_isen,neg,-2,0.5
+underhålla,very-pos,2,0.75
+under isen,neg,-2,0.5
 underlägsen,neg,-2,1.0
-underlätta,pos,2,0.75
+underlätta,very-pos,2,0.75
 undermålig,neg,-2,1.0
 underskön,pos,3,0.5
-underutvecklad,pos,2,0.75
+underutvecklad,very-pos,2,0.75
 ung,neg,-2,0.25
 unik,pos,2,0.25
 uppburen,pos,2,0.5
 uppgiven,neg,-2,0.25
-uppgradera,pos,2,0.75
+uppgradera,very-pos,2,0.75
 uppgraderbar,pos,2,0.5
 uppkomma,neg,-2,0.25
 uppmärksammad,pos,2,0.25
 uppriktig,pos,2,0.5
-upprymd,pos,2,0.75
+upprymd,very-pos,2,0.75
 upprätta,pos,2,0.25
 uppröra,neg,-2,0.5
 upprörd,neg,-2,0.25
 uppskruvad,pos,2,0.25
-uppsluppen,pos,2,0.75
+uppsluppen,very-pos,2,0.75
 urarta,neg,-2,1.0
 urdålig,neg,-3,1.0
-ur_funktion,neg,-2,0.75
-ur_gängorna,neg,-2,1.0
-ur_lag,neg,-2,0.75
+ur funktion,very-neg,-2,0.75
+ur gängorna,neg,-2,1.0
+ur lag,very-neg,-2,0.75
 ursinnig,neg,-3,0.5
 ursnygg,pos,3,0.5
-ur_spel,neg,-2,0.75
-urspårad,pos,2,0.75
+ur spel,very-neg,-2,0.75
+urspårad,very-pos,2,0.75
 urtjusig,pos,3,0.5
 urtrist,neg,-2,0.25
-urusel,neg,-3,0.75
+urusel,very-neg,-3,0.75
 uråldrig,neg,-2,0.25
 usel,neg,-2,1.0
 utklara,pos,2,0.25
-utkräva_hämnd,neg,-2,0.5
+utkräva hämnd,neg,-2,0.5
 utmattad,pos,2,0.25
 utmärkt,pos,2,1.0
-utomordentlig,pos,2,0.75
-utom_sig,pos,2,0.75
+utomordentlig,very-pos,2,0.75
+utom sig,very-pos,2,0.75
 utpräglad,pos,2,0.25
 utreda,pos,2,0.25
 utrota_covid-19,pos,2,0.5
@@ -2170,58 +2170,58 @@ utstoffera,pos,2,0.5
 utsvulten,neg,-2,0.25
 utsökt,pos,2,0.5
 uttjatad,neg,-2,0.25
-utvecklad,pos,2,0.75
+utvecklad,very-pos,2,0.75
 utveckla,pos,2,1.0
-utveckla_sig,pos,2,0.75
-utvecklingsbar,pos,2,0.75
+utveckla sig,very-pos,2,0.75
+utvecklingsbar,very-pos,2,0.75
 utvecklingsstörd,neg,-2,0.5
 vaccindödsfall,neg,-2,0.5
 vacker,pos,2,1.0
 vansklig,neg,-2,0.5
-vansläktas,neg,-2,0.75
-vanvörda,neg,-2,0.75
+vansläktas,very-neg,-2,0.75
+vanvörda,very-neg,-2,0.75
 vanvördig,neg,-2,0.5
-vara_med,pos,2,0.25
+vara med,pos,2,0.25
 vara,neg,-2,0.25
-vardagstrevlig,pos,2,0.75
-varmhjärtad,pos,2,0.75
+vardagstrevlig,very-pos,2,0.75
+varmhjärtad,very-pos,2,0.75
 varm,pos,2,0.25
-varva_upp,pos,2,0.25
+varva upp,pos,2,0.25
 vaska,pos,2,0.5
 vass,pos,2,0.25
-vederfås,pos,2,0.75
+vederfås,very-pos,2,0.75
 vedergälla,neg,-2,0.5
 vederhäftig,pos,2,0.5
 vemodig,neg,-2,0.5
 venerabel,pos,2,0.5
 verklighetsfrånvänd,pos,2,0.25
 vetenskaplig,pos,2,0.25
-vidareutveckla,pos,2,0.75
-vidunderlig,pos,2,0.75
-vifta_på_svansen,pos,2,1.0
+vidareutveckla,very-pos,2,0.75
+vidunderlig,very-pos,2,0.75
+vifta på svansen,pos,2,1.0
 viktig,neg,-2,0.25
-vilja_sig,pos,2,0.5
+vilja sig,pos,2,0.5
 vilseledande,neg,-2,0.25
 vimpelprydd,pos,2,0.5
 vind,neg,-2,0.25
 vindstilla,pos,2,0.25
-vinna,pos,2,0.75
-vinna_segerpalmen,pos,2,0.5
+vinna,very-pos,2,0.75
+vinna segerpalmen,pos,2,0.5
 virusdödande,pos,1,0.5
-visa_sig,pos,2,0.25
-visa_upp,pos,2,0.25
+visa sig,pos,2,0.25
+visa upp,pos,2,0.25
 visitera,pos,2,0.25
 vissen,neg,-2,1.0
 vissna,neg,-2,0.25
 viss,pos,2,0.25
-vitalisera,pos,2,0.75
+vitalisera,very-pos,2,0.75
 vitaliserbar,pos,2,0.5
 vital,pos,2,1.0
 vitmålad,pos,2,0.25
 vit,neg,-2,0.25
 vred,neg,-2,0.5
 vråla,neg,-2,0.25
-vräka_sig,pos,2,0.75
+vräka sig,very-pos,2,0.75
 våldsam,neg,-2,0.25
 vårda,pos,2,1.0
 vårfin,pos,2,0.5
@@ -2234,7 +2234,7 @@ välbalanserad,pos,2,0.25
 välbeställd,pos,2,0.25
 välboren,pos,2,0.25
 väldig,pos,2,0.25
-välfungerande,pos,2,0.75
+välfungerande,very-pos,2,0.75
 välförtjänt,pos,2,0.5
 välgörande,pos,2,0.5
 välklädd,pos,2,0.25
@@ -2244,70 +2244,70 @@ väl,pos,2,1.0
 välsittande,pos,2,0.5
 välsmakande,pos,2,0.25
 välstädad,pos,2,0.5
-väl_unt,pos,2,0.5
+väl unt,pos,2,0.5
 väluppfostrad,pos,2,0.25
-välutvecklad,pos,2,0.75
+välutvecklad,very-pos,2,0.75
 välvillig,pos,2,0.25
 välvårdad,pos,2,0.5
 vända,pos,2,0.25
-vända_till_det_bättre,pos,2,0.75
+vända till det bättre,very-pos,2,0.75
 vänligen,pos,2,0.5
-vänlig,pos,2,0.75
+vänlig,very-pos,2,0.75
 vän,pos,2,0.5
 vänskaplig,pos,2,0.5
 vänta,neg,-2,0.25
 värdefull,pos,2,0.25
 värdig,neg,-2,0.5
 värd,pos,2,1.0
-värka_ut,pos,2,0.75
-världens,pos,2,0.75
-världsbäst,pos,2,0.75
+värka ut,very-pos,2,0.75
+världens,very-pos,2,0.75
+världsbäst,very-pos,2,0.75
 värma,pos,2,0.25
 värmebehandla,pos,2,0.5
 värna,pos,2,0.25
 värt,pos,2,0.5
 vörda,pos,2,1.0
 vördig,pos,2,0.5
-vördnadsvärd,pos,2,0.75
-ypperlig,pos,2,0.75
-ypperst,pos,2,0.75
+vördnadsvärd,very-pos,2,0.75
+ypperlig,very-pos,2,0.75
+ypperst,very-pos,2,0.75
 yr,neg,2,1.0
 yster,pos,2,0.25
 ytlig,neg,-2,0.25
-åka_dit,pos,2,0.25
+åka dit,pos,2,0.25
 åldrad,neg,-2,0.25
-ångra_sig,pos,2,0.25
-årsbästa,pos,2,0.75
+ångra sig,pos,2,0.25
+årsbästa,very-pos,2,0.75
 återbetala,pos,2,0.25
 återfalla,neg,-2,1.0
 återfå,pos,2,0.25
-återhämta_sig,pos,2,0.25
+återhämta sig,pos,2,0.25
 återkommande,pos,2,0.25
 återuppbygga,pos,2,0.25
 åtgärda,pos,2,0.25
 åtnöjas,pos,2,0.5
 äcklig,neg,-2,0.25
 ädelmodig,pos,2,0.5
-ädel,pos,2,0.75
-äga,pos,2,0.75
+ädel,very-pos,2,0.75
+äga,very-pos,2,0.75
 ägig,pos,2,1.0
 ägna,pos,2,0.25
-ägna_sig,pos,2,0.75
+ägna sig,very-pos,2,0.75
 älska,pos,2,0.25
 älsklig,pos,2,0.5
 älskvärd,pos,2,0.5
-ändamålsenlig,pos,2,0.75
+ändamålsenlig,very-pos,2,0.75
 äntligen,pos,2,0.25
-äppelpräktig,pos,2,0.75
+äppelpräktig,very-pos,2,0.75
 ärad,pos,2,0.5
-ära,pos,2,0.75
-ärevördig,pos,2,0.75
+ära,very-pos,2,0.75
+ärevördig,very-pos,2,0.75
 ärligen,pos,2,0.5
-ärlig,pos,2,0.75
+ärlig,very-pos,2,0.75
 ödmjuk,pos,2,0.25
-ökade_dödligheten,neg,-2,0.75
+ökade_dödligheten,very-neg,-2,0.75
 öka,pos,2,0.25
-öken,neg,-2,0.75
+öken,very-neg,-2,0.75
 ömsesidig,pos,2,0.25
 öppen,pos,2,0.25
 överdriven,pos,2,0.25
@@ -2319,9 +2319,9 @@ ytlig,neg,-2,0.25
 överdödligheters,neg,-2,0.5
 överdödlighet,neg,-2,0.5
 överdödlighets,neg,-2,0.5
-överförtjust,pos,3,0.75
+överförtjust,very-pos,3,0.75
 överlista,pos,2,0.5
-överlycklig,pos,3,0.75
+överlycklig,very-pos,3,0.75
 överlägsen,pos,2,1.0
 överlämna,pos,2,0.25
 över_min_döda_kropp,neg,-2,0.5
