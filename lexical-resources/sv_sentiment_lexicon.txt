@@ -2247,7 +2247,7 @@ vansläktas,very-neg,-2,0.75
 vanvörda,very-neg,-2,0.75
 vanvördig,neg,-2,0.5
 vara_med,pos,2,0.25
-vara,neg,-2,0.25
+#vara,neg,-2,0.25
 vardagstrevlig,very-pos,2,0.75
 varmhjärtad,very-pos,2,0.75
 varm,pos,2,0.25
