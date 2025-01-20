@@ -1,32 +1,32 @@
-COMPOUND, DECADE1970, DECADE1980, DECADE1990, DECADE2000, DECADE2010, DECADE2020
-arbetsgivarsegregation, 0, 0, 0, 9, 0, 0
-arbetslivssegregation, 0, 0, 0, 2, 0, 0
-arbetsmarknadssegregation, 0, 0, 0, , 0, 4
-arbetsplatssegregation, 0, 0, 1, 1, 0, 0
-befattningssegregation, 0, 0, 1, 1, 0, 0
-boendesegregation, 6, 11, 59, 218, 155, 225
-bostadssegregation, 26, 7, 35, 58, 125, 108
-branschsegregation, 0, 0, 0, 2, 0, 0
-desegregation, 0, 0, 1, 1, 18, 1
-förortssegregation, 0, 0, 0, 1, 0, 0
-generationssegregation, 0, 0, 2, 3, 0, 0
-informationssegregation, 0, 0, 0, 2, 0, 0
-inkomstsegregation, 0, 0, , 0, 1, 2
-invandrarsegregation, 0, 0, 1, 0, 0, 0
-ITsegregation, 0, 0, 1, 0, 0, 0
-klassegregation, 0, 0, 0, 0, 2, 0
-klassrumssegregation, 0, 0, 0, 1, 0, 0
-kunskapssegregation, 0, 0, 1, 7, 13, 2
-könssegregation, 1, 0, 5, 17, 39, 2
-lönesegregation, 0, 0, 0, 1, 0, 0
-meritvärdessegregation, 0, 0, 0, 0, 0, 1
-områdessegregation, 0, 0, 3, 0, 0, 0
-prestationssegregation, 0, 0, 1, 0, 0, 0
-rassegregation, 0, 0, 1, 0, 2, 0
-skolsegregation, 1, 0, 1, 14, 192, 535
-språksegregation, 0, 0, 0, 0, 2, 2
-stadssegregation, 0, 0, 0, 1, 0, 1
-trygghetssegregation, 0, 0, 1, 0, 0, 
-utbildningssegregation, 0, 0, 0, 1, 4, 0
-yrkessegregation, 0, 0, 0, 0, 0, 1
-ålderssegregation, 1, 1, 0, 20, 1, 1
+COMPOUND,DECADE1970,DECADE1980,DECADE1990,DECADE2000,DECADE2010,DECADE2020
+arbetsgivarsegregation,0,0,0,9,0,0
+arbetslivssegregation,0,0,0,2,0,0
+arbetsmarknadssegregation,0,0,0,0,0,4
+arbetsplatssegregation,0,0,1,1,0,0
+befattningssegregation,0,0,1,1,0,0
+boendesegregation,6,11,59,218,155,225
+bostadssegregation,26,7,35,58,125,108
+branschsegregation,0,0,0,2,0,0
+desegregation,0,0,1,1,18,1
+förortssegregation,0,0,0,1,0,0
+generationssegregation,0,0,2,3,0,0
+informationssegregation,0,0,0,2,0,0
+inkomstsegregation,0,0,0,0,1,2
+invandrarsegregation,0,0,1,0,0,0
+IT-segregation,0,0,1,0,0,0
+klassegregation,0,0,0,0,2,0
+klassrumssegregation,0,0,0,1,0,0
+kunskapssegregation,0,0,1,7,13,2
+könssegregation,1,0,5,17,39,2
+lönesegregation,0,0,0,1,0,0
+meritvärdessegregation,0,0,0,0,0,1
+områdessegregation,0,0,3,0,0,0
+prestationssegregation,0,0,1,0,0,0
+rassegregation,0,0,1,0,2,0
+skolsegregation,1,0,1,14,192,535
+språksegregation,0,0,0,0,2,2
+stadssegregation,0,0,0,1,0,1
+trygghetssegregation,0,0,1,0,0,0
+utbildningssegregation,0,0,0,1,4,0
+yrkessegregation,0,0,0,0,0,1
+ålderssegregation,1,1,0,20,1,1
