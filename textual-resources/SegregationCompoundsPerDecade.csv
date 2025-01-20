@@ -1,32 +1,32 @@
-SEGREGATION-COMPOUND;DECADE-1970;DECADE-1980;DECADE-1990;DECADE-2000;DECADE-2010;DECADE-2020
-arbetsgivarsegregation;;;;9;;
-arbetslivssegregation;;;;2;;
-arbetsmarknadssegregation;;;;;;4
-arbetsplatssegregation;;;1;1;;
-befattningssegregation;;;1;1;;
-boendesegregation;6;11;59;218;155;225
-bostadssegregation;26;7;35;58;125;108
-branschsegregation;;;;2;;
-desegregation;;;1;1;18;1
-fîrortssegregation;;;;1;;
-generationssegregation;;;2;3;;
-informationssegregation;;;;2;;
-inkomstsegregation;;;;;1;2
-invandrarsegregation;;;1;;;
-IT-segregation;;;1;;;
-klassegregation;;;;;2;
-klassrumssegregation;;;;1;;
-kunskapssegregation;;;1;7;13;2
-kînssegregation;1;;5;17;39;2
-lînesegregation;;;;1;;
-meritvÑrdessegregation;;;;;;1
-omrÜdessegregation;;;3;;;
-prestationssegregation;;;1;;;
-rassegregation;;;1;;2;
-skolsegregation;1;;1;14;192;535
-sprÜksegregation;;;;;2;2
-stadssegregation;;;;1;;1
-trygghetssegregation;;;1;;;
-utbildningssegregation;;;;1;4;
-yrkessegregation;;;;;;1
-Ülderssegregation;1;1;;20;1;1
+SEGREGATION-COMPOUND	DECADE-1970	DECADE-1980	DECADE-1990	DECADE-2000	DECADE-2010	DECADE-2020
+arbetsgivarsegregation				9		
+arbetslivssegregation				2		
+arbetsmarknadssegregation						4
+arbetsplatssegregation			1	1		
+befattningssegregation			1	1		
+boendesegregation	6	11	59	218	155	225
+bostadssegregation	26	7	35	58	125	108
+branschsegregation				2		
+desegregation			1	1	18	1
+f√∂rortssegregation				1		
+generationssegregation			2	3		
+informationssegregation				2		
+inkomstsegregation					1	2
+invandrarsegregation			1			
+IT-segregation			1			
+klassegregation					2	
+klassrumssegregation				1		
+kunskapssegregation			1	7	13	2
+k√∂nssegregation	1		5	17	39	2
+l√∂nesegregation				1		
+meritv√§rdessegregation						1
+omr√•dessegregation			3			
+prestationssegregation			1			
+rassegregation			1		2	
+skolsegregation	1		1	14	192	535
+spr√•ksegregation					2	2
+stadssegregation				1		1
+trygghetssegregation			1			
+utbildningssegregation				1	4	
+yrkessegregation						1
+√•lderssegregation	1	1		20	1	1
