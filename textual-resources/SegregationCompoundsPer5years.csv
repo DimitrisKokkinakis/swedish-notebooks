@@ -1,0 +1,12 @@
+COMPOUND	1970-1974	1975-1979	1980-1984	1985-1989	1990-1994	1995-1999	2000-2004	2005-2009	2010-2014	2015-2019	2020-2024
+arbetsgivarsegregation	0	0	0	0	0	0	9	0	0	0	0
+arbetsmarknadssegregation	0	0	0	0	0	0	0	0	0	0	4
+boendesegregation	2	4	9	2	6	53	72	146	53	102	225
+bostadssegregation	9	17	4	3	6	29	25	33	20	105	108
+desegregation	0	0	0	0	0	1	1	1	13	5	1
+kunskapssegregation	0	0	0	0	1	0	1	6	11	2	2
+könssegregation	0	1	0	0	3	2	3	14	9	30	2
+skolsegregation	1	0	0	0	1	0	11	3	21	130	535
+språksegregation	0	0	0	0	0	0	0	0	0	2	2
+utbildningssegregation	0	0	0	0	0	0	0	1	2	2	0
+ålderssegregation	0	1	1	0	0	0	13	7	0	1	1
