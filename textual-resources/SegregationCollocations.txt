@@ -1,0 +1,6 @@
+#STARTS HERE
+Corpus size 150000
+segregation = 349, index = 67, segregation+index = 35
+etnisk = 277, segregation = 349, etnisk+segregation = 54
+segregation = 379, problem = 7, segregation+problem = 6
+#END HERE
