@@ -1,6 +1,15 @@
 #STARTS HERE
-Corpus size 150000
-segregation = 349, index = 67, segregation+index = 35
-etnisk = 277, segregation = 349, etnisk+segregation = 54
-segregation = 379, problem = 7, segregation+problem = 6
-#END HERE
+#cat x|perl -pe 's/^[\t ]*(\d+)[\t ]+([^\t ]+)[\t ]+([^\t ]+)[\t ]*\n/$2 = , $3 = , $2+$3 = $1\n/g'
+
+Corpus size 218000000
+ökad = 123624, segregation = 15912, ökad+segregation = 1358
+etnisk = 22758, segregation = 15912, etnisk+segregation = 840
+minskad = 27917, segregation = 15912, minskad+segregation = 836
+social = 101012, segregation = 15912, social+segregation = 538
+socioekonomisk = 7598, segregation = 15912, sociekonomisk+segregation = 508
+ekonomisk = 153227, segregation = 15912, ekonomisk+segregation = 262
+stor = 312251, segregation = 15912, stor+segregation = 238
+ökande = 8961, segregation = 15912, ökande+segregation = 214
+diskriminerande = 2775, segregation = 15912, diskriminerande+segregation = 186
+tilltagande = 1402, segregation = 15912, tilltagande+segregation = 157
+ofrivillig = 1769, segregation = 15912, ofrivillig+segregation = 126
