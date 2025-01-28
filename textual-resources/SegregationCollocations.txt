@@ -1,36 +1,22 @@
 #STARTS HERE
 #cat x|perl -pe 's/^[\t ]*(\d+)[\t ]+([^\t ]+)[\t ]+([^\t ]+)[\t ]*\n/$2 = , $3 = , $2+$3 = $1\n/g'
 #An error occurred: float division by zero
+
 Corpus size 218000000
-ökad = 123624, segregation = 15912, ökad+segregation = 1358
-etnisk = 22758, segregation = 15912, etnisk+segregation = 840
-minskad = 27917, segregation = 15912, minskad+segregation = 836
-social = 101012, segregation = 15912, social+segregation = 538
-socioekonomisk = 7598, segregation = 15912, socioekonomisk+segregation = 508
-ekonomisk = 153227, segregation = 15912, ekonomisk+segregation = 262
-stor = 312251, segregation = 15912, stor+segregation = 238
-ökande = 8961, segregation = 15912, ökande+segregation = 214
-diskriminerande = 2775, segregation = 15912, diskriminerande+segregation = 186
-tilltagande = 1402, segregation = 15912, tilltagande+segregation = 157
-ofrivillig = 1769, segregation = 15912, ofrivillig+segregation = 126
-pedagogisk = 206767, segregation = 15912, pedagogisk+segregation = 118
-negativ = 32315, segregation = 15912, negativ+segregation = 102
-kulturell = 16980, segregation = 15912, kulturell+segregation = 60
-eventuell = 25915, segregation = 15912, eventuell+segregation = 36
-vertikal = 958, segregation = 15912, vertikal+segregation = 34
-växande = 11060, segregation = 15912, växande+segregation = 114
-bortvaldas = 46, segregation = 15912, bortvaldas+segregation = 36
-omfattande = 35875, segregation = 15912, omfattande+segregation = 30
-accelererande = 263, segregation = 15912, accelererande+segregation = 24
-tydlig = 79029, segregation = 15912, tydlig+segregation = 30
-demografisk = 4159, segregation = 15912, demografisk+segregat
-rumslig = 635, segregation = 15912, rumslig+segregation = 30ion = 24
-skadlig = 7933, segregation = 15912, skadlig+segregation = 22
-verklig = 8390, segregation = 15912, verklig+segregation = 22
-mindre = 81257, segregation = 15912, mindre+segregation = 40
-stark = 51473, segregation = 15912, stark+segregation = 38
-utbredd = 3164, segregation = 15912, utbredd+segregation = 34
-fortsatt = 36395, segregation = 15912, fortsatt+segregation = 32
-svensk = 256330, segregation = 15912, svensk+segregation = 20
-förstärkt = 8654, segregation = 15912, förstärkt+segregation = 20
+ökad = 72816, segregation = 16330, ökad+segregation = 677
+etnisk = 23619, segregation = 16330, etnisk+segregation = 417
+minskad = 10931, segregation = 16330, minskad+segregation = 414
+social = 109294, segregation = 16330, social+segregation = 268
+socioekonomisk = 7876, segregation = 16330, socioekonomisk+segregation = 244
+ekonomisk = 164337, segregation = 16330, ekonomisk+segregation = 134
+ökande = 9130, segregation = 16330, ökande+segregation = 107
+stor = 244908, segregation = 16330, stor+segregation = 107
+diskriminerande = 2889, segregation = 16330, diskriminerande+segregation = 93
+tilltagande = 1432, segregation = 16330, tilltagande+segregation = 79
+ofrivillig = 1894, segregation = 16330, ofrivillig+segregation = 62
+pedagogisk = 21990, segregation = 16330, pedagogisk+segregation = 60
+växande = 11221, segregation = 16330, växande+segregation = 56
+negativ = 32904, segregation = 16330, negativ+segregation = 48
+kulturell = 17368, segregation = 16330, kulturell+segregation = 30
+utbredd = 2330, segregation = 16330, utbredd+segregation = 34
 #END HERE
