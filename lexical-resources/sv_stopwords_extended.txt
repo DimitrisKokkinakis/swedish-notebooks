@@ -399,6 +399,7 @@ följande
 följd
 för
 För
+förhoppningsvis
 förbjuder
 före
 förlåt
@@ -561,6 +562,7 @@ icke
 i_dag
 idag
 ie
+i_jämförelse_med
 i_enighet_med
 if
 ifall
