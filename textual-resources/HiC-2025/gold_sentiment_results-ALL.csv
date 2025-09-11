@@ -41,7 +41,7 @@
 40;2000-01-01;Master;Min trädgård blomstrar och det känns som ett litet paradis.;1;1;1;1
 41;2000-01-01;Master;Jag lägger mina nycklar alltid på samma plats.;0;0;0;0
 42;2000-01-01;Master;Det är dags för årets influensavaccin snart.;0;0;0;0
-43;2000-01-01;Master;Jag läser oftast nyheterna på morgonen.;0;0;0;1
+43;2000-01-01;Master;Jag läser oftast nyheterna på morgonen.;0;0;0;0
 44;2000-01-01;Master;Jag funderar på att byta mobiltelefonmodell.;0;0;0;0
 45;2000-01-01;Master;I morgon är en annan dag, som de säger.;0;0;0;0
 46;2000-01-01;Master;Det är en vanlig dag på kontoret.;0;0;0;0
@@ -168,7 +168,7 @@
 167;2000-01-01;8 Sidor;Det har snöat mycket i västra Sverige under natten till tisdag .;0;0;0;0
 168;2000-01-01;8 Sidor;Linda Haglund sade att hon var oskyldig och hennes tränare erkände att det var han som gjort fel .;0;0;-1;1
 169;2000-01-01;8 Sidor;Ingen vet hur mycket det kommer att kosta att bygga upp New Orleans .;0;0;0;1
-170;2000-01-01;8 Sidor;Fram till-1-10 ska regeringen lägga nästan 8 miljarder kronor på vägar och järnvägar .;0;0;0;-1
+170;2000-01-01;8 Sidor;Fram till-1-10 ska regeringen lägga nästan 8 miljarder kronor på vägar och järnvägar .;0;0;0;0
 171;2000-01-01;8 Sidor;EU vill att Europas städer ska få bättre skydd mot terrorister .;1;1;0;1
 172;2000-01-01;8 Sidor;I vintras gjorde vi en intervju med Cecilia Wikström .;0;0;0;0
 173;2000-01-01;8 Sidor;Då var det världens största fartyg .;1;1;0;0
@@ -193,7 +193,7 @@
 192;2000-01-01;8 Sidor;Det har snöat mycket i västra Sverige under natten till tisdag .;0;0;0;0
 193;2000-01-01;8 Sidor;Linda Haglund sade att hon var oskyldig och hennes tränare erkände att det var han som gjort fel .;-1;-1;-1;1
 194;2000-01-01;8 Sidor;Ingen vet hur mycket det kommer att kosta att bygga upp New Orleans .;0;0;0;1
-195;2000-01-01;8 Sidor;Fram till-1-10 ska regeringen lägga nästan 8 miljarder kronor på vägar och järnvägar .;0;0;0;-1
+195;2000-01-01;8 Sidor;Fram till-1-10 ska regeringen lägga nästan 8 miljarder kronor på vägar och järnvägar .;0;0;0;0
 196;2000-01-01;8 Sidor;EU vill att Europas städer ska få bättre skydd mot terrorister .;1;1;0;1
 197;2000-01-01;8 Sidor;I vintras gjorde vi en intervju med Cecilia Wikström .;0;0;0;0
 198;2000-01-01;8 Sidor;EU säger att regeringen bestämmer för mycket över domstolarna .;0;0;0;0
@@ -322,7 +322,7 @@
 321;2000-01-01;8 Sidor;Han är expert på odling .;0;0;1;1
 322;2000-01-01;8 Sidor;En av Eric Gustafssons tavlor har nu vunnit en tävling för konst .;1;1;1;1
 323;2000-01-01;8 Sidor;Flera vägar fick stängas av .;0;0;0;0
-324;2000-01-01;8 Sidor;Här kan du se bilder från nyheterna vecka-13 .;0;0;0;1
+324;2000-01-01;8 Sidor;Här kan du se bilder från nyheterna vecka-13 .;0;0;0;0
 325;2000-01-01;8 Sidor;Det säger Johanna Ragnartz på organisationen Håll Sverige Rent som gjort undersökningen om skräp .;0;0;0;0
 326;2000-01-01;8 Sidor;Miljöpartiet vill att ungdomar , pensionärer och studenter ska få resa billigare på bussar och tunnelbana .;1;1;0;1
 327;2000-01-01;8 Sidor;Efter en vecka fick hon jobb hos dem .;1;1;0;1
@@ -361,7 +361,7 @@
 360;2000-01-01;8 Sidor;Men experter säger att bråken nu är värre än på länge .;-1;-1;-1;-1
 361;2000-01-01;8 Sidor;Svenska som andraspråk kan vara viktigt för elever som pratar ett annat språk än svenska hemma .;0;0;0;1
 362;2000-01-01;8 Sidor;Men det kan ha varit för att lastbilen var för tungt lastad .;0;0;0;-1
-363;2000-01-01;8 Sidor;Tidningar med nyheter får 500 miljoner kronor att dela på .;0;0;0;1
+363;2000-01-01;8 Sidor;Tidningar med nyheter får 500 miljoner kronor att dela på .;0;0;0;0
 364;2000-01-01;8 Sidor;Laget spelade smart och starkt i försvar .;0;1;1;1
 365;2000-01-01;8 Sidor;Hon kunde inte säga nej eller försvara sig .;-1;-1;-1;0
 366;2000-01-01;8 Sidor;Då gick hennes pappa till en domstol för att få styra över sin dotters liv och pengar .;0;0;0;0
@@ -498,7 +498,7 @@
 497;2000-01-01;8 Sidor;Där står det i lagen att kvinnor inte har samma rättigheter som män .;-1;-1;0;1
 498;2000-01-01;8 Sidor;Nyamko Sabuni vill kunna samarbeta med Sverigedemokraterna .;1;1;0;1
 499;2000-01-01;8 Sidor;Att lyssna på en podd är ett skönt sätt att vila på varma och lediga dagar .;1;1;1;1
-500;2000-01-01;8 Sidor;Vid full tid stod det oavgjort-1-1 Matchen fick avgöras med straffar .;0;0;0;-1
+500;2000-01-01;8 Sidor;Vid full tid stod det oavgjort-1-1 Matchen fick avgöras med straffar .;0;0;0;0
 501;2000-01-01;8 Sidor;Nu har räddningsarbetare lyckats rädda elva arbetare .;1;1;1;1
 502;2000-01-01;8 Sidor;Ligan hjälpte människor i hela Sverige att fuska för att få bra resultat på provet .;-1;-1;-1;1
 503;2000-01-01;8 Sidor;De hoppades att han skulle kunna få stopp på rebellerna .;0;0;0;0
@@ -1061,7 +1061,7 @@
 1060;2000-01-01;8 Sidor;EU-ledarna tycker att demokratin är för dålig i Turkiet.;-1;-1;-1;0
 1061;2000-01-01;8 Sidor;Annars var onsdagen en ganska dålig dag för svenskarna Anna Lindberg blev utslagen i tävlingen på tremeters-svikten.;-1;-1;-1;-1
 1062;2000-01-01;8 Sidor;Räddningsarbetarna kom för sent till många områden och hade för dålig utrustning.;-1;-1;-1;-1
-1063;2000-01-01;8 Sidor;Jag var bedrövligt dålig och gjorde ingenting bra, säger Sveriges stjärna Peter Forsberg till Dagens Nyheter.;-1;-1;-1;0
+1063;2000-01-01;8 Sidor;Jag var bedrövligt dålig och gjorde ingenting bra, säger Sveriges stjärna Peter Forsberg till Dagens Nyheter.;-1;-1;-1;-1
 1064;2000-01-01;8 Sidor;Hans parti BJP har lyckats bra med Indiens ekonomi.;1;1;1;1
 1065;2000-01-01;8 Sidor;Spelarna tar ledigt från bandyn fram till i höst.;0;0;0;1
 1066;2000-01-01;8 Sidor;Lagarna handlar om många viktiga frågor.;0;0;0;1
@@ -1081,7 +1081,7 @@
 1080;2000-01-01;Dagens Arena;Efter en allvarlig politisk kris upphävde presidenten Pervez Musharraf äntligen undantagstillståndet i höstas och utlyste ett val.;1;1;1;-1
 1081;2000-01-01;Dagens Arena;Då och då händer det att saknade återfinns, men hoppet minskar hela tiden.;-1;-1;0;-1
 1082;2000-01-01;SVT Nyheter-1004;Sex passagerare är redan i land och sjöräddningscentralen tror att evakueringen av de återstående ombord kommer att gå fort.;1;1;0;1
-1083;2000-01-01;SVT Nyheter-1004;De pekar på sakfel och brister – bland annat hävdar de att förband inte värderats på ett korrekt och rättvist sätt i utredningen.;-1;-1;0;1
+1083;2000-01-01;SVT Nyheter-1004;De pekar på sakfel och brister – bland annat hävdar de att förband inte värderats på ett korrekt och rättvist sätt i utredningen.;-1;-1;0;0
 1084;2000-01-01;SVT Nyheter-1004;Nio av tio av dessa har gått sämre än index.;-1;-1;-1;-1
 1085;2000-01-01;SVT Nyheter-1004;Alla är oskadda, det gick väldigt smidigt och snabbt, säger han.;1;1;1;1
 1086;2000-01-01;SVT Nyheter-1004;Reseföretaget Svenska ReseGruppen har 700 reguljära resenärer till Phuket och Krabi men har bara fått kontakt med tio procent av dem.;-1;-1;-1;0
@@ -1537,7 +1537,7 @@
 1536;2000-01-01;Bloggmix 2-17;Hos Eucerin gjorde jag en hudscanning .;0;0;0;0
 1537;2000-01-01;Bloggmix 2-17;L´Oréal Paris lanserar vårnyheter Inlägget innehåller produkter jag fått som pressprover .;0;0;0;0
 1538;2000-01-01;Bloggmix 2-17;Fick reda på att jag har yttorr hud som kan upplevas lite stram , så nu ska jag fokusera ännu mer på återfuktande produkter .;0;0;0;-1
-1539;2000-01-01;Bloggmix 2-17;Tog nästan-1 månad att få hem den , då den blivit ultrapopulär men tillslut kom den fram och jag betalade varken tull eller frakt .;1;1;0;0
+1539;2000-01-01;Bloggmix 2-17;Tog nästan-1 månad att få hem den , då den blivit ultrapopulär men tillslut kom den fram och jag betalade varken tull eller frakt .;1;1;0;1
 1540;2000-01-01;Bloggmix 2-17;Inga fler fingrar i burk som samlar bakterier .;-1;-1;-1;0
 1541;2000-01-01;Bloggmix 2-17;Kan fortfarande inte förstå att jag blev medbjuden .;1;1;0;-1
 1542;2000-01-01;Bloggmix 2-17;Välkomnades av en fin Clarins-present .;1;1;1;1
@@ -1972,8 +1972,8 @@
 1971;2000-01-01;SweFN;Det är dags att byta spår , annars är risken stor att Dawit får tillbringa ännu ett decennium bakom galler .;-1;-1;1;-1
 1972;2000-01-01;SweFN;Tillsammans har vi makt att förändra .;1;1;1;0
 1973;2000-01-01;SweFN;17 döda när lavin begravde rysk by .;-1;-1;-1;-1
-1974;2000-01-01;SweFN;Jag har flera gånger skrivit om regeringens klåpande med bilindustrin och andra delar av industrin .;-1;-1;-1;0
-1975;2000-01-01;SweFN;Den stora lavinen begravde alla som var med .;-1;-1;-1;0
+1974;2000-01-01;SweFN;Jag har flera gånger skrivit om regeringens klåpande med bilindustrin och andra delar av industrin .;-1;-1;-1;-1
+1975;2000-01-01;SweFN;Den stora lavinen begravde alla som var med .;-1;-1;-1;-1
 1976;2000-01-01;SweFN;Pirater kapade under helgen tre thailändska fiskefartyg i Indiska oceanen .;-1;-1;-1;0
 1977;2000-01-01;SweFN;Den här vackra bilden av Steven van der Meulen föreställer Erik XIV .;1;1;1;1
 1978;2000-01-01;SweFN;Skulpturen var mycket väl emballerad och hade inte kommit till skada .;1;1;1;-1
