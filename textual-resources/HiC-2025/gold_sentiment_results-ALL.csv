@@ -266,7 +266,7 @@
 265;2000-01-01;8 Sidor;Saab-arbetarna får vänta några veckor till innan de vet hur det går .;0;0;-1;0
 266;2000-01-01;8 Sidor;Det är också viktigt att samarbeta med andra länder om att få bort olagliga vapen .;0;0;1;1
 267;2000-01-01;8 Sidor;Stefan Löfven sade att han kan samarbeta med alla partier utom Sverigedemokraterna .;0;0;0;1
-268;2000-01-01;8 Sidor;Många irakier är glada över att Saddam Hussein är borta .;0;0;1;1
+268;2000-01-01;8 Sidor;Många irakier är glada över att Saddam Hussein är borta .;0;1;1;1
 269;2000-01-01;8 Sidor;Sverige tog guld i mixedstafetten där det var två män och två kvinnor med i laget .;1;1;1;1
 270;2000-01-01;8 Sidor;Alla jublade , hurrade och dansade när de fick veta att presidenten hade lämnat ifrån sig makten .;1;1;1;1
 271;2000-01-01;8 Sidor; Det är ett fint pris som visar att du har gjort något bra , säger Dejan Kulusevski .;1;1;1;1
@@ -617,7 +617,7 @@
 616;2000-01-01;Master;Jag känner mig otillräcklig och värdelös.;-1;-1;-1;-1
 617;2000-01-01;Master;Klockan är-10:35.;0;0;0;0
 618;2000-01-01;Master;Jag sitter vid köksbordet och dricker kaffe.;0;0;0;0
-619;2000-01-01;Master;Det är mulet väder idag.;0;0;0;0
+619;2000-01-01;Master;Det är mulet väder idag.;0;-1;0;-1
 620;2000-01-01;Master;Jag ska handla mat efter jobbet.;0;0;0;0
 621;2000-01-01;Master;Jag har tvättat tid idag.;0;0;0;0
 622;2000-01-01;Master;Jag har bokat en tid hos frisören.;0;0;0;0
@@ -664,7 +664,7 @@
 663;2000-01-01;Master;Att ta en välförtjänt paus kan ge mig ny energi och motivation att fortsätta.;1;1;1;1
 664;2000-01-01;Master;Att be om hjälp är ett tecken på styrka och kan leda till nya samarbeten.;1;1;1;1
 665;2000-01-01;Master;Att säga nej till vissa saker kan ge mig mer tid och energi för det som är viktigast.;1;1;1;1
-666;2000-01-01;Master;Att göra misstag är en del av inlärningsprocessen och kan leda till framgång.;1;1;0;0
+666;2000-01-01;Master;Att göra misstag är en del av inlärningsprocessen och kan leda till framgång.;1;1;0;1
 667;2000-01-01;Master;Att inte veta allt kan ge mig en ödmjuk inställning och en vilja att lära mig mer.;1;1;1;1
 668;2000-01-01;Master;Att ha bråttom kan tvinga mig att bli mer effektiv och fokuserad.;1;1;1;1
 669;2000-01-01;Master;Att känna sig obekväm kan vara en signal om att jag behöver utmana mig själv och växa.;1;1;1;-1
@@ -884,7 +884,7 @@
 883;2000-01-01;Bloggmix 2-15;Blev dock full och hade ändå kul på någe vis.;1;1;0;0
 884;2000-01-01;Bloggmix 2-15;Tjejerna var VÄLDIGT exalterade över några små hus som stod på stranden.;1;1;1;0
 885;2000-01-01;Bloggmix 2-15;Efteråt drog vi till Spleen och hängde med lite andra komiker.;1;1;0;0
-886;2000-01-01;Bloggmix 2-15;Kaos på stand up-klubben igår.;1;1;-1;-1
+886;2000-01-01;Bloggmix 2-15;Kaos på stand up-klubben igår.;1;-1;-1;-1
 887;2000-01-01;Bloggmix 2-15;Imorgon ska jag på en date med en kille som jag träffades i Fredags.;1;1;0;0
 888;2000-01-01;Bloggmix 2-15;Me and Anna ended up with a man who had dogs, cats, lizards, snakes and turtles at home.;1;1;0;0
 889;2000-01-01;Bloggmix 2-15;Efteråt hängde massa komiker med varandra och jag pratade med en tjej som tydligen håller i en kväll med VÄLDIGT eftertraktade gigg.;1;1;1;0
