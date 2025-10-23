@@ -105,10 +105,10 @@
 104;2000-01-01;Master;Jag råkade tappa min telefon, och nu är skärmen sprucken.;-1;-1;-1;-1
 105;2000-01-01;Master;Jag är besviken på hur filmen slutade.;-1;-1;-1;-1
 106;2000-01-01;Master;Jag vaknade med huvudvärk denna morgon.;-1;-1;-1;-1
-107;2000-01-01;Master;Det var en lång kö vid kassan i affären idag.;-1;-1;0;1
+107;2000-01-01;Master;Det var en lång kö vid kassan i affären idag.;-1;-1;0;-1
 108;2000-01-01;Master;Jag känner mig ensam ibland.;-1;-1;-1;-1
 109;2000-01-01;Master;Maten jag beställde var inte alls som jag förväntade mig.;-1;-1;-1;0
-110;2000-01-01;Master;Jag glömde min plånbok hemma när jag gick ut.;-1;-1;0;0
+110;2000-01-01;Master;Jag glömde min plånbok hemma när jag gick ut.;-1;-1;0;-1
 111;2000-01-01;Master;Jag försov mig och kom försent till mitt möte.;-1;-1;-1;0
 112;2000-01-01;Master;Det är så frustrerande när internet inte fungerar ordentligt.;-1;-1;-1;-1
 113;2000-01-01;Master;Jag blev blöt i regnet och nu fryser jag.;-1;-1;-1;-1
@@ -712,7 +712,7 @@
 711;2000-01-01;Bloggmix 2-17;Bruce Gagnon: Vi vill inte ha krig med Ryssland.;-1;-1;-1;-1
 712;2000-01-01;Bloggmix 2-17;Medan pressmeddelanden har utfärdats från olika MSF kontor runt om i världen, verkar MSF inte ha tillgång till kontrollerbara uppgifter från Syrien.;-1;-1;0;1
 713;2000-01-01;Bloggmix 2-17;Jag hoppas att det inte är dit han vill.;-1;-1;-1;1
-714;2000-01-01;Bloggmix 2-17;Uppgifterna ska vara relevanta för det valda ämnet och inte ofullständiga.;-1;-1;0;1
+714;2000-01-01;Bloggmix 2-17;Uppgifterna ska vara relevanta för det valda ämnet och inte ofullständiga.;-1;1;0;1
 715;2000-01-01;Bloggmix 2-17;Ex-president Carter tillhör dem som menar att USA inte längre har ett demokratiskt valsystem.;-1;-1;0;1
 716;2000-01-01;Bloggmix 2-17;Olsson inleder sitt grävjobb med brasklappen att rapporten inte pekar ut någon som Putin-agent och att man givetvis kan vara mot värdlandsavtalet med Nato utan att gå Kremls ärenden.;-1;-1;0;0
 717;2000-01-01;Bloggmix 2-17;"Enligt syriska statliga medier, sade Syriens FN-ambassadör Jaafari att frågan om federalism skulle avgöras ""av alla syrier och inte unilateralt av en grupp"", och tillade att alla idéer ""även en lika galen som federalism, måste sättas till en demokratisk omröstning."" ""Ryssarna försöker hitta en överenskommelse som kan antas både av president Assad och PYD.";-1;-1;0;1
@@ -732,7 +732,7 @@
 731;2000-01-01;Bloggmix 2-17;Sen att få barnen i säng var inte lätt.;-1;-1;0;-1
 732;2000-01-01;Bloggmix 2-17;Hon blir aldrig irriterad på dem och tvingar dem inte att göra saker de inte vill även om det är att missa hejdåkramen.;-1;-1;1;-1
 733;2000-01-01;Bloggmix 2-17;Hon blir aldrig irriterad på dem och tvingar dem inte att göra saker de inte vill även om det är att missa hejdåkramen.;-1;-1;1;-1
-734;2000-01-01;Bloggmix 2-17;Sju vaknade deras lille pöjk, så morgonen var ju inte den piggaste.;-1;-1;0;1
+734;2000-01-01;Bloggmix 2-17;Sju vaknade deras lille pöjk, så morgonen var ju inte den piggaste.;-1;-1;0;-1
 735;2000-01-01;Bloggmix 2-17;Andra året hamnade jag i en klass där jag inte riktigt passade in.;-1;-1;0;0
 736;2000-01-01;Bloggmix 2-17;De veckor jag inte hinner tvätta en maskin om dagen växer högen så ini Norden snabbt.;-1;-1;-1;0
 737;2000-01-01;Bloggmix 2-17;Men vill verkligen inte att hon ska missa mer i skolan.;-1;-1;-1;-1
@@ -741,7 +741,7 @@
 740;2000-01-01;Bloggmix 2-17;Men jag vill inte ha dem där.;-1;-1;-1;0
 741;2000-01-01;Bloggmix 2-17;Man säger inte hej då, man säger god natt.;-1;-1;1;1
 742;2000-01-01;Bloggmix 2-17;Så hon inte skulle vara rädd.;-1;-1;0;-1
-743;2000-01-01;Bloggmix 2-17;Men vågar inte riktigt.;-1;-1;0;0
+743;2000-01-01;Bloggmix 2-17;Men vågar inte riktigt.;-1;-1;0;-1
 744;2000-01-01;Bloggmix 2-17;Men kan kanske flirta med några av de andra tjejerna som ska vara med om att mötas upp eller få en ordentlig vägbeskrivning som inte innefattar allt för mycket gång.;-1;-1;0;1
 745;2000-01-01;Bloggmix 2-17;Ja nu var det ju förra året det och inte detta år.;-1;-1;0;0
 746;2000-01-01;Bloggmix 2-17;När vet jag inte.;-1;0;0;0
@@ -774,7 +774,7 @@
 773;2000-01-01;Bloggmix 2-17;En terror som sannolikt inte nöjer sig med detta, utan som syftar till folkmord.;-1;-1;0;-1
 774;2000-01-01;Bloggmix 2-17;Hon är frilansande festfixare och det är ojämnt mellan uppdragen, vilket gör att hon får dåligt samvete för att hon inte kan erbjuda barnen resor, restaurangbesök eller märkeskläder.;-1;-1;-1;-1
 775;2000-01-01;Bloggmix 2-17;"E-post (måste anges, kommer inte visas) URL Du kan använda: <a href="" "" title="" "" > <abbr title="" "" > <acronym title="" "" > <b> <blockquote cite="" "" > <cite> <code> <del datetime="" "" > <em> <i> <q cite="" "" > <strike> <strong>";-1;-1;0;0
-776;2000-01-01;Bloggmix 2-17;I Angels huvud löper tankar på stela svenskar som inte kan dansa, minnen av svåra krigsupplevelser och längtan efter att vara en förebild för den egna sonen.;-1;-1;0;1
+776;2000-01-01;Bloggmix 2-17;I Angels huvud löper tankar på stela svenskar som inte kan dansa, minnen av svåra krigsupplevelser och längtan efter att vara en förebild för den egna sonen.;-1;-1;0;0
 777;2000-01-01;Bloggmix 2-17;Eller varför inte skala bort Ajvilde helt och berätta allt ur Angels perspektiv?;-1;-1;0;-1
 778;2000-01-01;Bloggmix 2-17;Ajvilde utkämpar ett krig mot tvåsamhetsnormen – ty hon anser sig vara lustfylld och vill inte avstå från sex trots sin frånskilda status.;-1;-1;0;1
 779;2000-01-01;Bloggmix 2-17;Nej, jag är inte ute efter en ny Neil Strauss, vars bok Spelet beskriver en sorts manlig subkultur där målet är att få kvinnor på fall.;-1;-1;-1;1
@@ -859,7 +859,7 @@
 858;2000-01-01;Bloggmix 2-15;Brunett och lös hår Åhhhh, ÄLSKAR totalt ÄLSKAR Mitt nya bruna förlängda hår, idag har Julia och jag tillbringat en dag i stallet och på gården, i-10 timmar drygt.;0;0;1;1
 859;2000-01-01;Bloggmix 2-15;Och imorgon väntas en dag från tidig morgon till riktigt sen kväll, MASSA med planer ska förberedas, och träningar och trimma alla hästar imorgon.;0;0;0;1
 860;2000-01-01;Bloggmix 2-15;Bästa sätt att starta en galenskaplig dag fullt med trim att hästar HÄR HÄR Tryck där för att komma till de bloggarna.;0;0;1;-1
-861;2000-01-01;Bloggmix 2-15;Jag red fram emot första hindret, gick super, hon tyckte de var super kul och jag oxå.;0;0;1;1
+861;2000-01-01;Bloggmix 2-15;Jag red fram emot första hindret, gick super, hon tyckte de var super kul och jag oxå.;0;1;1;1
 862;2000-01-01;Bloggmix 2-15;En dröm att rida, hoppar ALLA hinder och hon ställer upp i precis alla lägen, absolut världens finaste storhäst.;0;0;1;1
 863;2000-01-01;Bloggmix 2-15;Min dröm storhäst.;0;1;1;1
 864;2000-01-01;Bloggmix 2-15;Tävlings debut-110cm Credit Valley.;0;0;0;0
@@ -1806,7 +1806,7 @@
 1805;2000-01-01;SweFN;En viktig poäng är att vi inte behöver räkna med en konvoj utmed vägarna .;0;0;1;1
 1806;2000-01-01;SweFN;De kan inte nås av konvojerna med humanitär hjälp på grund av regnen , och därför finns det inga fullständiga uppgifter om förhållandena där .;-1;-1;-1;1
 1807;2000-01-01;SweFN;Han tittar ut över kolonnerna av bussar .;0;0;0;0
-1808;2000-01-01;SweFN;Han sade att sydafrikanska plan två gånger bombat en kolonn på väg från Menongue till Cuito-Cuanavale .;-1;-1;0;0
+1808;2000-01-01;SweFN;Han sade att sydafrikanska plan två gånger bombat en kolonn på väg från Menongue till Cuito-Cuanavale .;-1;-1;0;-1
 1809;2000-01-01;SweFN;De förlorade sin självständighet och kulturella identitet när kolonner av objudna trupper gick över gränsen .;-1;-1;0;0
 1810;2000-01-01;SweFN;Vi bakade blåbärspaj och äpplepaj till gästerna .;0;0;1;0
 1811;2000-01-01;SweFN;Jag brukar oftast baka brödet med den mindre jästmängden .;0;0;0;0
